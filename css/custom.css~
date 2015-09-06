@@ -106,7 +106,7 @@ text-decoration: none;
 p{
 font-family: Lato, sans-serif;
 text-align: left;
-font-size: 24px;
+font-size: 28px;
 }
 pagetitle{
 font-family: Oswald, sans-serif;
