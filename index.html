@@ -1,123 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Darshan Soni | Integrated Engineer</title>
+---
+layout: default
+---
 
-    <!-- Bootstrap -->
-   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-   <link href="http://lipis.github.io/bootstrap-social/bootstrap-social.css" rel="stylesheet" >
-   <link href="css/custom.css" rel="stylesheet">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    
-   <!-- Google font additions -->
-	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Fjalla+One|Oswald:400,700,300' rel='stylesheet' type='text/css'>
-    
-    <!-- Custom colour scheme #321C11, #7E3E1E, #7E4F38, #127E77, #113230 -->
+<div class="home">
 
-  </head>
-  <body>
-	
-	<nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html"><navtext>specialisedhardwares.com</navtext></a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html"><navtext>Home</navtext></a></li>
-            <li><a href="about.html"><navtext>About</navtext></a></li>
-            <li><a href="courses.html"><navtext>Courses</navtext></a></li>
-            <li><a href="photography.html"><navtext>Photography</navtext></a></li>
-            <li><a href="projects.html"><navtext>Projects</navtext></a></li>
-            <li><a href="contact.html"><navtext>Contact</navtext></a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav> 
-  
-	<div class="jumbotron">
-		<div class="container">		
-			<pagetitle>Specialised Hardwares</pagetitle>
-		</div>
-	</div>
-<!-- START SITE CONTENT HERE -->	
-<div class="bannermain" style="height:500px">
-	<div class="container">
-		<br><br><br><br>
-		<h1 style="color:white; font-size:90px; background-color:rgba(0,0,0, 0.4);">Your safety is our business.</h1>	
-	</div>	
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-<div class="container">
-<p>
-<br>
-Our business is committed to delivering our goal through our core values. Our values are more than just statements; they define our reasons for being in business and what it means to be part of our Specialised Team.
-<br><br>
-By investing in our own people we are able to offer expert advice and support to our customers. All our sales and technical staff undergo continuous product training. Our team also has qualified Occupational Health & Safety practitioners. We will continue to provide training to our team so that we can offer practical support and sensible advice. Our team of highly qualified experts work in partnership with you to offer practical, hassle-free services to ensure that your work place is safe and compliant.
-<br><br>
-As market leaders we offer the widest range of PPE in the East African region. We have an impressive product range and hold large stocks. Furthermore, the products are available through a large network of distributors, ensuring you can get what you need when you need it. If you have got a large order or bespoke requirements then come and talk to us about a deal.
-<br><br>
-</p>
-
-</div>
-<div class="container-fluid" style="text-align:center">
-
-	<div class="row">
-		<div class="col-lg-3 safety">			
-			<h1>Safety</h1>
-		</div>
-		<div class="col-lg-3 fire">
-			<h1>Fire</h1>
-		</div>
-		<div class="col-lg-3 tools">
-			<h1>Tools</h1>
-		</div>
-		<div class="col-lg-3 industrial">
-			<h1>Industrial</h1>
-		</div>
-		
-	</div>
-	
-
-</div>
-
-<!-- END SITE CONTENT HERE -->    
-   <footer class="footer">
-   	<div class="container">
-   		<div class="row">
-   			<div class="col-lg-5">
-   				<h4 class="text-muted">Site information</h4>
-   				<p class="text-muted">This website was proudly created with open source tools. <br> All images used on the site are appropriately licenced or publicly available through a GNU licence. <br> © 2015 | Darshan Soni <br> Vancouver | British Columbia | Canada</p>
-				</div>
-				<div class="col-lg-offset-3 col-lg-2">
-					<h4 class="text-muted">Follow me</h4>
-					<p><a class="btn btn-block btn-muted"><span class="fa fa-google"></span> Google+</a></p>
-					<p><a class="btn btn-block btn-muted btn-github"><span class="fa fa-github"></span> Github</a></p>
-				</div>
-				<div class="col-lg-2">	
-					<h4><br></h4>
-					<p><a class="btn btn-block btn-muted btn-linkedin"><span class="fa fa-linkedin"></span> LinkedIn</a></p>
-					<p><a class="btn btn-block btn-muted btn-flickr"><span class="fa fa-flickr"></span> Flickr</a></p>				
-				</div>			
-			</div>   	
-   	</div>
-   </footer>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
-</html>
