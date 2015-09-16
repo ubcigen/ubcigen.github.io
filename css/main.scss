@@ -20,6 +20,8 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$red-color-dark:	#F44336;
+$footer-color: #B71C1C;
 
 // Width of the content area
 $content-width:    800px;
@@ -50,3 +52,23 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.bridgepicture{
+background-image: url("https://images.unsplash.com/photo-1423847061346-e91142431473?q=80&fm=jpg&s=b40777709fd53fa27815f424340569f0");
+background-size: cover;
+}
+
+.footer{
+background-color: $footer-color;
+}
+
+.jumbotron{
+padding-top: 100px;
+background-color: $red-color-dark;
+color: white;
+}
+
+p{
+font-size:18px;
+font-family: helvetica;
+}

@@ -12,9 +12,11 @@
 
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	
+	<link rel="stylesheet" href="css/main.css">	
+	
 
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,7 +29,7 @@
   
   	<!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
+      <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -40,6 +42,18 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About IGEN <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Current Students <span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -93,11 +107,33 @@
          </div><!--/.nav-collapse -->
       </div>
     </nav>
+    
+    <div class="container-fluid jumbotron">
+    	<div class="container">
+			<h1>UBC Integrated Engineers Club</h1>
+		</div>	    
+    </div>
+	<div class="container-fluid bridgepicture">		
+		<h2><br>A Multidisciplinary Engineering Program<br><br><br><br></h2>    	
+    </div>  
+    <div class="container">
+		<p><br>
+			The University of British Columbia’s innovative Integrated Engineering Program (IGEN) offers a multidisciplinary undergraduate engineering education. Students take courses in core subjects and elective courses in at least two of the traditional engineering disciplines offered at UBC.
+
+IGEN provides design and project management experience by means of design project courses taken in each year of the program. Technical skills, communication skills, and the ability to work with others to complete challenging projects are emphasized in these courses.
+
+Browse through the pages on this web site to understand more about what is taught in this program, who teaches it, and what the students do before and after they graduate.		
+		</p>    
+    </div>
+    <div class="footer">
+    	&copy IGEN 2015
+    </div>
   
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
 </html>

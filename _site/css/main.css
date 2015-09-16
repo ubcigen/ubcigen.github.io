@@ -447,3 +447,19 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.bridgepicture {
+  background-image: url("https://images.unsplash.com/photo-1423847061346-e91142431473?q=80&fm=jpg&s=b40777709fd53fa27815f424340569f0");
+  background-size: cover; }
+
+.footer {
+  background-color: #B71C1C; }
+
+.jumbotron {
+  padding-top: 100px;
+  background-color: #F44336;
+  color: white; }
+
+p {
+  font-size: 18px;
+  font-family: helvetica; }
