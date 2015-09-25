@@ -55,6 +55,7 @@ $on-laptop:        800px;
 
 .bridgepicture{
 background-image: url("https://images.unsplash.com/photo-1423847061346-e91142431473?q=80&fm=jpg&s=b40777709fd53fa27815f424340569f0");
+padding-top:10%;
 background-size: cover;
 }
 
@@ -66,9 +67,16 @@ background-color: $footer-color;
 padding-top: 100px;
 background-color: $red-color-dark;
 color: white;
+border-color: white;
 }
 
 p{
 font-size:18px;
-font-family: helvetica;
+font-family: Lato, sans-serif;
+}
+
+.sportspicture{
+background-image: url("https://cloud.githubusercontent.com/assets/12440671/10023198/a675e1be-6105-11e5-9874-2b4f5e8d0421.png");
+padding-top:10%;
+background-size: cover;
 }
