@@ -4,10 +4,10 @@ title: Student Life
 permalink: /current-students/student-life/
 ---
 
-<div class="container-fluid sportspicture" style="height:800px">
+<div class="container-fluid lifepicture" style="height:800px">
 	<div class="container">
 		<br><br><br>
-		<h2 style="color:white;font-size:100px">Student Life at IGEN</h2>
+		<h2 style="color:white;font-size:100px">Life at IGEN</h2>
 	</div>
 </div>
 <br>

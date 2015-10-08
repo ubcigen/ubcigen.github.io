@@ -18,6 +18,7 @@
 	<link rel="stylesheet" href="/css/main.css">	
 
   <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
 	
 	<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
@@ -40,7 +41,7 @@
 
     <!-- <header class="site-header"> -->
 <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-fixed-top navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -49,16 +50,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">UBC Integrated Engineers</a>
+          <a class="navbar-brand" href="/">UBC Integrated Engineers</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/">Home</a></li>
+            <li class="active"><a href="/">Home</a></li>
+            <li><a href="/news/">News</a></li> 
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About IGEN <span class="caret"></span></a>
+              <a href="/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About IGEN <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
+                <li><a href="/about/presidents-message/">President's Message</a></li>
+                <li><a href="/about/your-council/">Your Council</a></li>
                 <li><a href="#">Something else here</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Nav header</li>
@@ -69,54 +71,38 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Current Students <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
+                <li><a href="/current-students/course-listing/">Course Listing</a></li>
+                <li><a href="/current-students/resources/">Resources</a></li>
                 <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="/current-students/mentorship-program/">Mentorship Program</a></li>
+                <li><a href="/current-students/facilities/">Facilities</a></li>
+                <li><a href="/current-students/recreation/">Recreation</a></li>
+                <li><a href="/current-students/student-life/">Student Life</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="/current-students/get-involved/">Get Involved</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Prospective Students <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="/prospective-students/why-igen/">Why IGEN?</a></li>
+                <li><a href="/prospective-students/events-calendar/">Events Calendar</a></li>
               </ul>
              </li>
-             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Alumni <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li>
+             <li><a href="/alumni/">Alumni</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Industry Members <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Industry<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
+                <li><a href="/industry/get-connected">Get Connected</a></li>
+                <li><a href="/industry/project-showcase">Project Showcase</a></li>
                 <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
+                <li><a href="/industry/legacy-projects">Legacy Projects</a></li>
               </ul>
             </li> 
-            <li><a href="contact.html">Contact</a></li> 
+            <li><a href="/contact/">Contact</a></li> 
           </ul>
          </div><!--/.nav-collapse -->
+    
       </div>
     </nav>
     
@@ -145,8 +131,9 @@
 
 <div class="container">
 	
-	Click the button below for the website where the UBC rec leagues ( dates and times for each sport offered) and some events that IGEN is looking to be involved with. 
-	If you are interested in playing or participating in any of the following please contact Tanya Bennet, the IGEN Sports Representative. Please include your <strong>name, student number and sports/events you are interested in.</strong> If you have any other questions regarding recreation at IGEN, feel free to contact her. 
+	<p>The IGEN Clubroom and adjacent rooms have a lot to offer. Complete with a fully stocked work shop, computer lab, and electrical lab/workshop that all IGEN student have access to, the Clubroom also includes 47 lockers that are rented out every year.
+	These lockers can be rented out through the VP Internal at the beginning of September for either a full year or just a semester. Any lockers that are available for the second semester are posted on January to be rented out.</p>
+	
 	<br /><br />
 
 	<div class="alert alert-info" role="alert">
@@ -166,64 +153,15 @@
 
 	<br /><br />
 	
-	<h2>Events list</h2>
+	<h2>Term 1 locker availability</h2>
+	<div class="progress">
+  		<div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="47" style="width:100%"> 0 lockers available</div>
+	</div>
 
-
-	<ul>
-		<li><strong>Day of the Longboat</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Mon Sept 21st 2015</li>
-			<li>Clinic Weekend: Sat and Sun Sep 26th and 27th 2015 from 7am. No Alumni.</li>
-			<li>Race Weekend: Sat and Sun Oct 3rd and 4th 2015 from 8am.</li>
-		</ul>
-	</ul>
-
-
-	<ul>
-		<li><strong>Dodgeball Derby</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Nov 2nd 2015</li>
-			<li>Derby Date: Nov 6 2015</li>
-		</ul>
-	</ul>		
-
-    <ul>
-		<li><strong>Water Wars</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Mon. Nov 9th 2015</li>
-			<li>Event Day: from 6pm Thu Nov 12th 2015</li>
-		</ul>
-	</ul>
-
-	<ul>
-		<li><strong>Lace up for Kids</strong></li>
-		<ul>
-			<li>November 26 2015</li>
-			<li>Helps support BC Children's Hospital</li>
-		</ul>
-	</ul> 
-
-	<ul>
-		<li><strong>Gladiator</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm January 18th, 2016</li>
-			<li>Event Day: January 21st-22nd 20165</li>
-		</ul>
-	</ul> 
-
-	<ul>
-		<li><strong>Howl at the Moon Volleyball</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Feb. 22nd, 2016</li>
-			<li>Event Day: Feb. 26th 2016</li>
-		</ul>
-	</ul>
-
-	<ul>
-		<li><strong>Storm the Wall</strong></li>
-	</ul>
-	<br /><br />
-
+	<h2>Term 2 locker availability</h2>
+	<div class="progress">
+  		<div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="42" aria-valuemin="0" aria-valuemax="47" style="width:89%"> 5 lockers available</div>
+	</div>
 		
 
 </div>
@@ -235,13 +173,33 @@
     <footer class="site-footer">
 
  <div class="footer">
- 	&copy IGEN 2015
+ 	<div class="container footer">
+ 	<br>
+ 		<div class="row">
+	 		<div class="col-sm-4">
+	 			<h3>&copy UBC Integrated Engineers</h3>
+	 			<p>All rights reserved. Site built and maintained by students of IGEN. All media content used is in compliance with GNU licences or permitted copyright use.</p>
+	 		</div>
+	 		<div class="col-sm-offset-1 col-sm-4">
+	 			<h3>IGEN Clubroom</h3>
+	 			<p>Ground Floor <br>HR MacMillan Building (UBC) <br>2357 Main Mall<br>V6T 1Z4<br>Vancouver, BC<br>Canada </p>
+	 		</div>
+	 		<div class="col-sm-3 footer">
+	 			<h3>Follow Us</h3>
+	 			<p><a style="colour:white;" href="http://www.facebook.com/igenubc" target="_blank">Facebook</a><br><a href="http://www.twitter.com/ubcigen" target="_blank">Twitter</a><br><a href="http://www.github.com/ubcigen" target="_blank">GitHub</a><br><a href="mailto:site@integratedengineers.ca" target="_blank">Email</a> </p>
+	 		</div>
+	 	</div>
+	 	<hr>
+	 	<p> <a href="/">Home</a> | <a href="http://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU Licence</a> | <a href="http://www.ubc.ca" target="_blank">UBC</a> </p>
+ 	</div>
  </div>
  
 </footer>
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     
 
 

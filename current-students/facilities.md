@@ -14,8 +14,9 @@ permalink: /current-students/facilities/
 
 <div class="container">
 	
-	Click the button below for the website where the UBC rec leagues ( dates and times for each sport offered) and some events that IGEN is looking to be involved with. 
-	If you are interested in playing or participating in any of the following please contact Tanya Bennet, the IGEN Sports Representative. Please include your <strong>name, student number and sports/events you are interested in.</strong> If you have any other questions regarding recreation at IGEN, feel free to contact her. 
+	<p>The IGEN Clubroom and adjacent rooms have a lot to offer. Complete with a fully stocked work shop, computer lab, and electrical lab/workshop that all IGEN student have access to, the Clubroom also includes 47 lockers that are rented out every year.
+	These lockers can be rented out through the VP Internal at the beginning of September for either a full year or just a semester. Any lockers that are available for the second semester are posted on January to be rented out.</p>
+	
 	<br><br>
 
 	<div class="alert alert-info" role="alert">
@@ -35,64 +36,15 @@ permalink: /current-students/facilities/
 
 	<br><br>
 	
-	<h2>Events list</h2>
+	<h2>Term 1 locker availability</h2>
+	<div class="progress">
+  		<div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="47" style="width:100%"> 0 lockers available</div>
+	</div>
 
-
-	<ul>
-		<li><strong>Day of the Longboat</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Mon Sept 21st 2015</li>
-			<li>Clinic Weekend: Sat and Sun Sep 26th and 27th 2015 from 7am. No Alumni.</li>
-			<li>Race Weekend: Sat and Sun Oct 3rd and 4th 2015 from 8am.</li>
-		</ul>
-	</ul>
-
-
-	<ul>
-		<li><strong>Dodgeball Derby</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Nov 2nd 2015</li>
-			<li>Derby Date: Nov 6 2015</li>
-		</ul>
-	</ul>		
-
-    <ul>
-		<li><strong>Water Wars</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Mon. Nov 9th 2015</li>
-			<li>Event Day: from 6pm Thu Nov 12th 2015</li>
-		</ul>
-	</ul>
-
-	<ul>
-		<li><strong>Lace up for Kids</strong></li>
-		<ul>
-			<li>November 26 2015</li>
-			<li>Helps support BC Children's Hospital</li>
-		</ul>
-	</ul> 
-
-	<ul>
-		<li><strong>Gladiator</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm January 18th, 2016</li>
-			<li>Event Day: January 21st-22nd 20165</li>
-		</ul>
-	</ul> 
-
-	<ul>
-		<li><strong>Howl at the Moon Volleyball</strong></li>
-		<ul>
-			<li>Registration Deadline: 5pm Feb. 22nd, 2016</li>
-			<li>Event Day: Feb. 26th 2016</li>
-		</ul>
-	</ul>
-
-	<ul>
-		<li><strong>Storm the Wall</strong></li>
-	</ul>
-	<br><br>
-
+	<h2>Term 2 locker availability</h2>
+	<div class="progress">
+  		<div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="42" aria-valuemin="0" aria-valuemax="47" style="width:89%"> 5 lockers available</div>
+	</div>
 		
 
 </div>

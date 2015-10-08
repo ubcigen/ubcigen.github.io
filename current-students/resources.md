@@ -7,6 +7,11 @@ permalink: /current-students/resources/
 	<h2>Google Drive Access</h2>
 	<p>IGEN students maintain a Google Drive folder with course content from all the years. Note that access is only available for current IGEN students. To request access, please use the link provided.<br>
 	</p>
+
+	<a href="https://docs.google.com/forms/d/1WdV_O8R3rfEqxJLqvlBMW4h7zbZZXLORoL4nl0i0t28/viewform" target="_blank"><button class="btn btn-lg btn-default">Request Google Drive access</button></a>
+
+	<br><br>
+
 	<div class="alert alert-info" role="alert">
 		<h2>Contact person</h2>
 			<div class="row">
@@ -21,5 +26,6 @@ permalink: /current-students/resources/
 				</div>
 			</div>
 	</div>
+
 </div>	
 

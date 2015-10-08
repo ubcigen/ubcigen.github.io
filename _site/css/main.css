@@ -448,19 +448,93 @@ pre {
   .highlight .il {
     color: #099; }
 
+.navbar-default {
+  background-color: #b71c1c;
+  border-color: #b71c1c;
+  font-family: Lato, sans-serif; }
+  .navbar-default .navbar-brand {
+    color: #ffffff; }
+    .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+      color: #ffbbbc; }
+  .navbar-default .navbar-text {
+    color: #ffffff; }
+  .navbar-default .navbar-nav > li > a {
+    color: #ffffff; }
+    .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+      color: #ffbbbc; }
+  .navbar-default .navbar-nav > li > .dropdown-menu {
+    background-color: #b71c1c; }
+    .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+      color: #ffffff; }
+      .navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover, .navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+        color: #ffbbbc;
+        background-color: #b71c1c; }
+    .navbar-default .navbar-nav > li > .dropdown-menu .divider {
+      background-color: #b71c1c; }
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffbbbc;
+    background-color: #b71c1c; }
+  .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #ffbbbc;
+    background-color: #b71c1c; }
+  .navbar-default .navbar-toggle {
+    border-color: #b71c1c; }
+    .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+      background-color: #b71c1c; }
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: #ffffff; }
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border-color: #ffffff; }
+  .navbar-default .navbar-link {
+    color: #ffffff; }
+    .navbar-default .navbar-link:hover {
+      color: #ffbbbc; }
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff; }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+      color: #ffbbbc; }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ffbbbc;
+    background-color: #b71c1c; } }
+.alumnipicture {
+  background-image: url("https://cloud.githubusercontent.com/assets/12440671/10179707/96346750-66bc-11e5-9041-ae29fdbd6a79.png");
+  padding-top: 10%;
+  background-size: cover; }
+
 .bridgepicture {
   background-image: url("https://images.unsplash.com/photo-1423847061346-e91142431473?q=80&fm=jpg&s=b40777709fd53fa27815f424340569f0");
   padding-top: 10%;
   background-size: cover; }
 
+.contactpicture {
+  background-image: url("https://cloud.githubusercontent.com/assets/12440671/10179314/07fda318-66ba-11e5-9b9a-febe78af177f.png");
+  padding-top: 10%;
+  background-size: cover; }
+
 .footer {
-  background-color: #B71C1C; }
+  background-color: #B71C1C;
+  color: white; }
+  .footer > p > a {
+    color: white; }
+    .footer > p > a:hover, .footer > p > a:focus {
+      color: white; }
+
+h1, h2, h3, h4 {
+  font-family: 'Lato', sans-serif; }
 
 .jumbotron {
   padding-top: 100px;
   background-color: #F44336;
   color: white;
   border-color: white; }
+
+.lifepicture {
+  background-image: url("https://cloud.githubusercontent.com/assets/12440671/10260131/2f206e1c-6926-11e5-852f-340b603c0328.png");
+  padding-top: 10%;
+  background-size: cover; }
 
 p {
   font-size: 18px;
@@ -470,3 +544,13 @@ p {
   background-image: url("https://cloud.githubusercontent.com/assets/12440671/10023198/a675e1be-6105-11e5-9874-2b4f5e8d0421.png");
   padding-top: 10%;
   background-size: cover; }
+
+table, td {
+  padding: 5px;
+  border: 1px solid black; }
+
+th {
+  padding: 5px;
+  border: 1px solid black;
+  background-color: #F44336;
+  color: white; }

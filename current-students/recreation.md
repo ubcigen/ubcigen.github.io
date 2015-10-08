@@ -34,6 +34,10 @@ permalink: /current-students/recreation/
 	</div>
 
 	<br><br>
+
+	<a class="btn btn-lg btn-default" href="/current-students/recreation/soccer"><h2><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> View soccer team stats</h2></a>
+
+	<br><br>
 	
 	<h2>Events list</h2>
 
