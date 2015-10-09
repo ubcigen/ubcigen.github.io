@@ -14,6 +14,7 @@
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"> -->
 	
 	<link rel="stylesheet" href="/css/main.css">	
+	<link href='/css/Nexa_Free_Bold-webfont.ttf' rel='stylesheet' type='text/css'>
 	
 
 
@@ -61,7 +62,7 @@
                 <li><a href="/current-students/course-listing/">Course Listing</a></li>
                 <li><a href="/current-students/resources/">Resources</a></li>
                 <li role="separator" class="divider"></li>
-                <li><a href="/current-students/mentorship-program/">Mentorship Program</a></li>
+                <li><a href="/current-students/mentorship/">Mentorship Program</a></li>
                 <li><a href="/current-students/facilities/">Facilities</a></li>
                 <li><a href="/current-students/recreation/">Recreation</a></li>
                 <li><a href="/current-students/student-life/">Student Life</a></li>

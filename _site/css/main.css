@@ -514,6 +514,10 @@ pre {
   padding-top: 10%;
   background-size: cover; }
 
+@font-face {
+  font-family: 'MyWebFont';
+  src: url("WebFont.eot");
+  src: url("WebFont.eot?#iefix") format("embedded-opentype"), url("WebFont.woff") format("woff"), url("WebFont.ttf") format("truetype"), url("WebFont.svg#webfont") format("svg"); }
 .footer {
   background-color: #B71C1C;
   color: white; }
@@ -523,7 +527,7 @@ pre {
       color: white; }
 
 h1, h2, h3, h4 {
-  font-family: 'Lato', sans-serif; }
+  font-family: 'MyWebFont', sans-serif; }
 
 .jumbotron {
   padding-top: 100px;

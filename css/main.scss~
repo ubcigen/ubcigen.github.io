@@ -53,21 +53,147 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+$bgDefault      : #b71c1c;
+$bgHighlight    : #b71c1c;
+$colDefault     : #ffffff;
+$colHighlight   : #ffbbbc;
+$dropDown       : true;
+
+.navbar-default {
+  background-color: $bgDefault;
+  border-color: $bgHighlight;
+  font-family: Lato, sans-serif;
+  .navbar-brand {
+    color: $colDefault;
+    &:hover, &:focus { 
+      color: $colHighlight; }}
+  .navbar-text {
+    color: $colDefault; }
+  .navbar-nav {
+    > li {
+      > a {
+        color: $colDefault;
+        &:hover,  &:focus {
+          color: $colHighlight; }}
+      @if $dropDown {
+        > .dropdown-menu {
+          background-color: $bgDefault;
+          > li > a {
+            color: $colDefault;
+            &:hover,  &:focus {
+              color: $colHighlight;
+              background-color: $bgHighlight; }}
+          .divider {
+            background-color: $bgHighlight;}}}
+    }
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}
+    > .open {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}}
+  .navbar-toggle {
+    border-color: $bgHighlight;
+    &:hover, &:focus {
+      background-color: $bgHighlight; }
+    .icon-bar {
+      background-color: $colDefault; }}
+  .navbar-collapse,
+  .navbar-form {
+    border-color: $colDefault; }
+  .navbar-link {
+    color: $colDefault;
+    &:hover {
+      color: $colHighlight; }}}
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu {
+    > li > a {
+      color: $colDefault;
+      &:hover, &:focus {
+        color: $colHighlight; }}
+    > .active {
+      > a, > a:hover, > a:focus {
+        color: $colHighlight;
+        background-color: $bgHighlight; }}}
+}
+
+
+.alumnipicture{
+background-image: url("https://cloud.githubusercontent.com/assets/12440671/10179707/96346750-66bc-11e5-9041-ae29fdbd6a79.png");
+padding-top:10%;
+background-size: cover;
+}
+
 .bridgepicture{
 background-image: url("https://images.unsplash.com/photo-1423847061346-e91142431473?q=80&fm=jpg&s=b40777709fd53fa27815f424340569f0");
+padding-top:10%;
 background-size: cover;
+}
+
+.contactpicture{
+background-image: url("https://cloud.githubusercontent.com/assets/12440671/10179314/07fda318-66ba-11e5-9b9a-febe78af177f.png");
+padding-top:10%;
+background-size: cover;
+}
+
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
 }
 
 .footer{
 background-color: $footer-color;
+color: white;
+> p > a {
+  color: white;
+  &:hover, &:focus {
+    color:white;}
+  }
+}
+
+h1,h2,h3,h4{
+	
+	font-family: 'Lato', sans-serif;
 }
 
 .jumbotron{
 padding-top: 100px;
 background-color: $red-color-dark;
 color: white;
+border-color: white;
+}
+
+.lifepicture{
+background-image: url("https://cloud.githubusercontent.com/assets/12440671/10260131/2f206e1c-6926-11e5-852f-340b603c0328.png");
+padding-top:10%;
+background-size: cover;
 }
 
 p{
 font-size:18px;
+font-family: Lato, sans-serif;
+}
+
+.sportspicture{
+background-image: url("https://cloud.githubusercontent.com/assets/12440671/10023198/a675e1be-6105-11e5-9874-2b4f5e8d0421.png");
+padding-top:10%;
+background-size: cover;
+}
+
+table, td {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+th{
+  padding: 5px;
+  border: 1px solid black;
+  background-color: $red-color-dark;
+  color: white;
 }
