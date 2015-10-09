@@ -118,9 +118,10 @@ permalink: /about/your-council/
 	  </div>
 	 </div> 
 </div>
-<br>
-<hr>
-<br>
+
+<br />
+
+
 <div class="container">
 	<h2>Representatives</h2>
 
@@ -165,8 +166,8 @@ permalink: /about/your-council/
 	</div> 
 
 
-
 	<div class="row">
+	  
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085727/98930b24-62bf-11e5-9271-f2458ba5127b.png" alt="...">
