@@ -4,12 +4,11 @@ title: Your Council
 permalink: /about/your-council/
 ---
 
-
-
 <div class="container">
 
 	<h2>IGEN Executive Council 2015/2016</h2>
-	<br><br>
+	<br>
+	<br>
 
 	<div class="row">
 	  <div class="col-md-4">
@@ -117,17 +116,15 @@ permalink: /about/your-council/
 	    </div>
 	  </div>
 	 </div> 
-</div>
 
-<br>
-<hr>
-<br>
+	<br>
+	<hr>
+	<br>
 
-
-<div class="container">
 	<h2>Representatives</h2>
 
-	<br><br>
+	<br>
+	<br>
 
 	<div class="row">
 	  <div class="col-sm-6 col-md-4">
@@ -209,3 +206,5 @@ permalink: /about/your-council/
 
 
 </div>
+
+
