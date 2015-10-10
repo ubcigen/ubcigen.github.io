@@ -451,7 +451,7 @@ pre {
 .navbar-default {
   background-color: #b71c1c;
   border-color: #b71c1c;
-  font-family: Lato, sans-serif; }
+  font-family: 'MyWebFont', sans-serif; }
   .navbar-default .navbar-brand {
     color: #ffffff; }
     .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {

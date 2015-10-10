@@ -62,7 +62,7 @@ $dropDown       : true;
 .navbar-default {
   background-color: $bgDefault;
   border-color: $bgHighlight;
-  font-family: Lato, sans-serif;
+  font-family: 'MyWebFont', sans-serif;
   .navbar-brand {
     color: $colDefault;
     &:hover, &:focus { 
