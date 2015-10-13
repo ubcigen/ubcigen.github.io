@@ -39,7 +39,7 @@ permalink: /about/your-council/
 	
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://placehold.it/200x242" alt="...">
+	      <img src="https://cloud.githubusercontent.com/assets/12440671/10467881/058d8984-71b1-11e5-8649-1893a08dee67.png" alt="...">
 	      <div class="caption">
 	        <h3>VP Academic</h3>
 	        <p>Achintya Verma</p>
