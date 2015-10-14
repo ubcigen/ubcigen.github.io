@@ -107,7 +107,7 @@ permalink: /about/your-council/
 	
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://placehold.it/200x242" alt="...">
+	      <img src="https://cloud.githubusercontent.com/assets/12440671/10494310/802f6518-726a-11e5-9a13-06d0120f175b.png" alt="...">
 	      <div class="caption">
 	      	<h3>Webmaster</h3>
 	      	<p>Darshan Soni</p>
