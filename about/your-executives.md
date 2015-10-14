@@ -54,8 +54,7 @@ permalink: /about/your-council/
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10468122/2a3151de-71b2-11e5-8c12-8382de5e8047.png)
-" alt="...">
+	      <img src="https://cloud.githubusercontent.com/assets/12440671/10468122/2a3151de-71b2-11e5-8c12-8382de5e8047.png" alt="...">
 	      <div class="caption">
 	        <h3>VP External</h3>
 	        <p>Mathieu Haiart</p>
