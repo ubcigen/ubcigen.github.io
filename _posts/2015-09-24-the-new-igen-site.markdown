@@ -5,7 +5,7 @@ date:   2015-09-24
 categories: site
 author: Darshan Soni
 ---
-<img class="img-responsive" src="https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=675&q=80&w=1375" alt="Website Coding" style="height:300px;">
+<img class="img-responsive" src="https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=675&q=80&w=1375" alt="Website Coding">
 
 
 Welcome to the new IGEN site! 
