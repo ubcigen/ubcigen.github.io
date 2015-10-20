@@ -14,7 +14,8 @@
 	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"> -->
 	
 	<link rel="stylesheet" href="/css/main.css">	
-	<link href='/css/Nexa_Free_Bold-webfont.ttf' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/css/textstyle.css" type="text/css" charset="utf-8" />
+
 	
 
 
