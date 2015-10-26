@@ -30,7 +30,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Treasurer</h3>
 	        <p>Jael Lumba</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:lumbajael@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -43,7 +43,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>VP Academic</h3>
 	        <p>Achintya Verma</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:achintya.verma@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -58,7 +58,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>VP External</h3>
 	        <p>Mathieu Haiart</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:mathieuhaiart@hotmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -71,7 +71,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>VP External</h3>
 	        <p>Kiel Olver</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:kiel.olver@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -84,7 +84,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>VP Internal</h3>
 	        <p>Hailey Grotkowski</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:haileygrotkowski@yahoo.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -98,7 +98,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Shop Supervisor</h3>
 	        <p>Lachlan Pedersen</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:lockiepeds1@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -133,7 +133,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Graduation Representative</h3>
 	        <p>Cobi Yu</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:cobiyu92@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -144,7 +144,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Sports Representative</h3>
 	        <p>Tanya Bennet</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:bennet.ubc@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -155,7 +155,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>E-Week Representative</h3>
 	        <p>Jesse Macht</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:jmacht@shaw.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -170,7 +170,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Second Year Representative</h3>
 	        <p>Aaron Kopelow</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:ajkopelow@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -183,7 +183,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Third Year Representative</h3>
 	        <p>Lance Burnett</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:lance.cburnett@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -196,7 +196,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Fourth Year Representative</h3>
 	        <p>Janyce Archutick</p>
-	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:janyce.archutick@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
