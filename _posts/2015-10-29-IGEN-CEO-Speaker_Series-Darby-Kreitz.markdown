@@ -5,6 +5,7 @@ categories: CEO-Speaker-Series
 author: Darshan Soni
 ---
 
+
 <img class="img-responsive" src="/images/DarbyKreitz1.JPG" alt="Darby Kreitz addressing IGEN students">
 
 
@@ -19,3 +20,5 @@ Darby Kreitz is the CEO of Allnorth Consultants Ltd, a company with just 4 peopl
 He proposes his famous "**four hour pickup truck test**" as a way to hire people, saying that when you want someone on the team, think about whether you can enjoy a 4 hour long pickup truck ride with them. If the answer is no, you probably don't want to work with them.
 
 IGEN is grateful to Mr Darby Kreitz for presenting today and Mr Mark Dance, IGEN 340 instructor, for facilitating the CEO Speakers Series.
+
+<img class="img-responsive" src="/images/DarbyKreitz3.JPG" alt="Darby Kreitz addressing IGEN students"> 
