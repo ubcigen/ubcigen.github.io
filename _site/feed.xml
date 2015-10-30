@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>UBC Integrated Engineers</title>
+    <description>Student run website of the UBC Integrated Engineers. This site is a resource for current students, prospective students, alumni and industry members.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Oct 2015 20:04:38 -0700</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2015 20:04:38 -0700</lastBuildDate>
+    <link>http://integratedengineers.ca/</link>
+    <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Oct 2015 22:42:05 -0700</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2015 22:42:05 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,8 +26,8 @@ The event took place in Frank Forward 303.&lt;/p&gt;
 &lt;p&gt;IGEN is grateful to Mr Darby Kreitz for presenting today and Mr Mark Dance, IGEN 340 instructor, for facilitating the CEO Speakers Series.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/ceo-speaker-series/2015/10/29/IGEN-CEO-Speaker_Series-Darby-Kreitz.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/ceo-speaker-series/2015/10/29/IGEN-CEO-Speaker_Series-Darby-Kreitz.html</guid>
+        <link>http://integratedengineers.ca/ceo-speaker-series/2015/10/29/IGEN-CEO-Speaker_Series-Darby-Kreitz/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/ceo-speaker-series/2015/10/29/IGEN-CEO-Speaker_Series-Darby-Kreitz/</guid>
         
         
         <category>ceo-speaker-series</category>
@@ -57,8 +57,8 @@ The event took place in Frank Forward 303.&lt;/p&gt;
 &lt;p&gt;Due to feedback from the student body we have changed the policy on the electrical shop: from now on all IGEN students have access to the space with their key card. Please note that should any tools go missing or the space become cluttered this decision will be reversed. Thanks for your co-operation.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/president-update/2015/10/26/Presidents-Update-October-26.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/president-update/2015/10/26/Presidents-Update-October-26.html</guid>
+        <link>http://integratedengineers.ca/president-update/2015/10/26/Presidents-Update-October-26/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2015/10/26/Presidents-Update-October-26/</guid>
         
         
         <category>president-update</category>
@@ -105,8 +105,8 @@ The event took place in Frank Forward 303.&lt;/p&gt;
 &lt;h3 id=&quot;thanks-for-your-attention-have-a-great-election-monday&quot;&gt;Thanks for your attention! Have a great election Monday.&lt;/h3&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/president-update/2015/10/19/Presidents-Update-October-19.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/president-update/2015/10/19/Presidents-Update-October-19.html</guid>
+        <link>http://integratedengineers.ca/president-update/2015/10/19/Presidents-Update-October-19/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2015/10/19/Presidents-Update-October-19/</guid>
         
         
         <category>president-update</category>
@@ -155,8 +155,8 @@ The event took place in Frank Forward 303.&lt;/p&gt;
 &lt;p&gt;IGEN Webmaster&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Oct 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/hiring/2015/10/19/IGEN-Media-Team_Hiring.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/hiring/2015/10/19/IGEN-Media-Team_Hiring.html</guid>
+        <link>http://integratedengineers.ca/hiring/2015/10/19/IGEN-Media-Team_Hiring/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/hiring/2015/10/19/IGEN-Media-Team_Hiring/</guid>
         
         
         <category>hiring</category>
@@ -182,8 +182,8 @@ The site was redesigned with our students, alumni and prospective students in mi
 Webmaster&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http://yourdomain.com/site/2015/09/24/the-new-igen-site.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/site/2015/09/24/the-new-igen-site.html</guid>
+        <link>http://integratedengineers.ca/site/2015/09/24/the-new-igen-site/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/site/2015/09/24/the-new-igen-site/</guid>
         
         
         <category>site</category>
