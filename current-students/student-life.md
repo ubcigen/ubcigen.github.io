@@ -26,7 +26,7 @@ permalink: /current-students/student-life/
 		<h2>Contact person</h2>
 		<div class="row">
 			<div class="col-sm-4">
-				<h3>Will Stratton <br> Sports Rep</h3>			
+				<h3>Will Stratton <br> VP Social</h3>			
 			</div>
 			<div class="col-sm-8">
 				<h3>wstratton26@gmail.com</h3>
