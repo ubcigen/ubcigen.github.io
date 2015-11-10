@@ -27,5 +27,14 @@ permalink: /current-students/resources/
 			</div>
 	</div>
 
+	<br><br>
+
+	<h2>IGEN Jacket Signup Sheet</h2>
+	<p>Please fill out the form below to order your official IGEN jacket</p>
+
+	<a href="https://survey.ubc.ca/s/igen-jacket-signup/" target="_blank"><button class="btn btn-lg btn-default">IGEN Jacket Signup</button></a>
+
+	<br><br>
+
 </div>	
 
