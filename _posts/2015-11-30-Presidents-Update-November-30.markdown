@@ -3,6 +3,7 @@ layout: post
 title: "President's Update for November 30 2015"
 categories: president-update
 author: Gabriel Lessard
+image: https://images.unsplash.com/photo-1447014421976-7fec21d26d86?crop=entropy&fit=crop&fm=jpg&h=950&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925
 ---
 Hello everyone!
 

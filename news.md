@@ -13,6 +13,7 @@ permalink: /news/
       <div class ="thumbnail">
         <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
         <p>{{ post.date | date_to_string }} | {{post.author}}</p>
+        <img class="img-responsive" src="{{ post.image }}">
       </div>
     </div>    
   {% else %}
@@ -20,8 +21,9 @@ permalink: /news/
       <div class="thumbnail">
         <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
         <p>{{ post.date | date_to_string }} | {{post.author}}</p>
+        <img class="img-responsive" src="{{ post.image }}">
       </div>  
-    </div>
+    </div> 
   {% endif %}
 {% endfor %}	
 	
