@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta content="UBC Integrated Engineers" property="og:site_name">
 
-  <meta content="Resources" property="og:title">
+  <meta content="Project Showcase" property="og:title">
 
 
   <meta content="article" property="og:type">
@@ -18,7 +18,7 @@
 " property="og:description">
 
 
-  <meta content="http://integratedengineers.ca/current-students/resources/" property="og:url">
+  <meta content="http://integratedengineers.ca/industry/project-showcase" property="og:url">
 
 
 
@@ -47,7 +47,7 @@
 	
 	<meta name="description" content="Student run website of the UBC Integrated Engineers. This site is a resource for current students, prospective students, alumni and industry members.
 ">
-	<link rel="canonical" href="http://integratedengineers.ca/current-students/resources/">
+	<link rel="canonical" href="http://integratedengineers.ca/industry/project-showcase">
 	<link rel="alternate" type="application/rss+xml" title="UBC Integrated Engineers" href="http://integratedengineers.ca/feed.xml" />
 
 
@@ -136,43 +136,10 @@
 <!-- </header> -->
 
         <div class="container">
-	<h1>Resources</h1>
+	<h1>Project Showcase</h1>
 </div>
 
- <div class="container">
-	<h2>Google Drive Access</h2>
-	<p>IGEN students maintain a Google Drive folder with course content from all the years. Note that access is only available for current IGEN students. To request access, please use the link provided.<br />
-	</p>
-
-	<a href="https://docs.google.com/forms/d/1WdV_O8R3rfEqxJLqvlBMW4h7zbZZXLORoL4nl0i0t28/viewform" target="_blank"><button class="btn btn-lg btn-default">Request Google Drive access</button></a>
-
-	<br /><br />
-
-	<div class="alert alert-info" role="alert">
-		<h2>Contact person</h2>
-			<div class="row">
-				<div class="col-sm-4">
-					<h3>Darshan Soni</h3> <h4>Webmaster</h4>			
-				</div>
-				<div class="col-sm-4">
-					<h3>site@integratedengineers.ca</h3>
-				</div>
-				<div class="col-sm-4">
-					<h3></h3>
-				</div>
-			</div>
-	</div>
-
-	<br /><br />
-
-	<h2>IGEN Jacket Signup Sheet</h2>
-	<p>Please fill out the form below to order your official IGEN jacket</p>
-
-	<a href="https://survey.ubc.ca/s/igen-jacket-signup/" target="_blank"><button class="btn btn-lg btn-default">IGEN Jacket Signup</button></a>
-
-	<br /><br />
-
-</div>
+ <p>This is a page.</p>
 
 
 
