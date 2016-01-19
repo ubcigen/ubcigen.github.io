@@ -3,6 +3,7 @@ layout: post
 title: "President's Update for November 2 2015"
 categories: president-update
 author: Gabriel Lessard
+image: /images/truss.png
 ---
 
 Good morning,

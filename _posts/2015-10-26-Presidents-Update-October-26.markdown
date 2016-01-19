@@ -3,6 +3,7 @@ layout: post
 title: "President's Update for October 26 2015"
 categories: president-update
 author: Gabriel Lessard
+image: /images/truss.png
 ---
 
 Happy Monday!
