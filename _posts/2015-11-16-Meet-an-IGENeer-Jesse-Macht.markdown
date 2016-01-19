@@ -3,6 +3,7 @@ layout: post
 title: "Meet an IGENeer - Jesse Macht"
 categories: meet-an-IGENeer
 author: Beste Pazarözyurt
+image: https://cloud.githubusercontent.com/assets/12440671/10349967/4125caa2-6cf6-11e5-950e-95635269af20.png
 ---
 
 <img class = "img-responsive" src="https://cloud.githubusercontent.com/assets/12440671/10349967/4125caa2-6cf6-11e5-950e-95635269af20.png">

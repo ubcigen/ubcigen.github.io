@@ -3,6 +3,7 @@ layout: post
 title: "IGEN CEO Speaker Series: Darby Kreitz"
 categories: CEO-Speaker-Series 
 author: Darshan Soni
+image: /images/DarbyKreitz1.JPG
 ---
 
 

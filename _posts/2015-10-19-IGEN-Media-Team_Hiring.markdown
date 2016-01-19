@@ -3,6 +3,7 @@ layout: post
 title: "IGEN is looking for a media team"
 categories: hiring
 author: Darshan Soni
+image: https://images.unsplash.com/photo-1417577354685-3ab67e9716a3?q=80&fm=jpg&w=600&fit=max&s=1941c278eb1c4c1edbd21330af2013d9
 ---
 
 <img class="img-responsive" src="https://images.unsplash.com/photo-1417577354685-3ab67e9716a3?q=80&fm=jpg&w=600&fit=max&s=1941c278eb1c4c1edbd21330af2013d9" alt="media">
