@@ -20,7 +20,7 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-$red-color-dark:	#e57373;
+$red-color-dark:	#bdbdbd;
 $footer-color: #B71C1C;
 
 // Width of the content area
@@ -163,7 +163,8 @@ h1,h2,h3,h4{
 }
 
 .jumbotron{
-padding-top: 100px;
+padding-top: 70px;
+padding-bottom: 20px;
 background-color: $red-color-dark;
 color: white;
 border-color: white;
