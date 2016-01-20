@@ -531,7 +531,7 @@ h1, h2, h3, h4 {
 
 .jumbotron {
   padding-top: 100px;
-  background-color: #F44336;
+  background-color: #e57373;
   color: white;
   border-color: white; }
 
@@ -556,5 +556,5 @@ table, td {
 th {
   padding: 5px;
   border: 1px solid black;
-  background-color: #F44336;
+  background-color: #e57373;
   color: white; }
