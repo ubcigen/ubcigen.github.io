@@ -71,3 +71,25 @@ permalink: /contact/
 	<br><br>
 
 </div>
+<div class="container">
+    <br><br>
+    <div class="row alert alert-info" style="text-align:center;">
+        <div class="col-sm-4">
+            <h1 style="font-size:120px;"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span></h1>
+            <h2>Location</h2>
+            <p>Room 76B<br>H.R. Macmillan Building<br>2357 Main Mall<br>Vancouver, BC<br>V6T 1Z4</p>
+        </div>
+        <div class="col-sm-4">
+            <h1 style="font-size:120px;"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></h1>
+            <h2>Email</h2>
+            <p>site@integratedengineers.ca</p>
+        </div>
+        <div class="col-sm-4">
+            <h1 style="font-size:120px;"><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></h1>
+            <h2>External links</h2>
+            <a href="http://igen.ubc.ca" target="_blank"><p>Official IGEN Department site</p></a>
+            <a href="http://www.ams.ubc.ca/" target="_blank"><p>UBC Alma Mater Society</p></a>
+
+        </div>
+    </div>
+</div>
