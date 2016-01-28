@@ -66,6 +66,7 @@ Time | Event
 
 
 
+
 ### 7. Upper year project mentorship
 
 The IGEN council is searching for up to 10 3rd of 4th year students to help with the IGEN 230 class. Your role would be to help mentor a second year project group, providing advice for sourcing, industry night, and any other resources that they may need. This is very flexible and is an awesome way to meet more students in our department! If interested please email me at igenpresident@gmail.com. We already have a few people, but the more the merrier!
