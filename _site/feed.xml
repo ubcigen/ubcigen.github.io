@@ -6,9 +6,82 @@
 </description>
     <link>http://integratedengineers.ca/</link>
     <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 16:16:17 -0800</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 16:16:17 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Wed, 10 Feb 2016 16:42:25 -0800</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 16:42:25 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>LumenLock</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/images/LumenLock.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;LumenLock is an integrated medical dressing designed to improve the quality of care for patients who have central venous or peripherally inserted central catheters. Existing medical dressings fail to adequately secure central lines and are not waterproof, often leading to skin irritation due to frequent changes. LumenLock holds the line close to the body and forms a waterproof barrier over the catheter exit site. As a result, patients are less likely to accidentally pull out their lines and fewer dressing changes are required. LumenLock will be sold directly to hospitals, providing a more comfortable, time saving and cost efficient solution. &lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gabriel Lessard-Kragen&lt;/li&gt;
+  &lt;li&gt;Elizabeth Wicks&lt;/li&gt;
+  &lt;li&gt;Ben Blair&lt;/li&gt;
+  &lt;li&gt;Nick Geddes&lt;/li&gt;
+  &lt;li&gt;Ashley Anderson&lt;/li&gt;
+  &lt;li&gt;Sarah Moug&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/10/LumenLock/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/LumenLock/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Levee Health Monitoring System</title>
+        <description>&lt;p&gt;
+Levee failures are frequent and have catastrophic social, economic, and environmental consequences. What if we could catch shifts in the levee before disastrous failure occurs? The levee health monitoring system does just this by alerting field workers to changes in a levee&#39;s three primary modes of failure: seepage, sliding, and erosion. This data is transmitted to a base station, allowing field workers to move beyond the insufficient visual inspections that are currently used in industry.
+&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Katalin Sandor Johansen&lt;/li&gt;
+  &lt;li&gt;Sara Flanagan&lt;/li&gt;
+  &lt;li&gt;Kieran Bjornson&lt;/li&gt;
+  &lt;li&gt;Nate Croft&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/10/Levee-Health-Monitoring-System/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/Levee-Health-Monitoring-System/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Chilly</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/images/Chilly.jpg&quot; style=&quot;max-height:200px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A temperature sensor that allows cafes and restaurants to automate and monitor their food safety. &lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rhea Sideris,&lt;/li&gt;
+  &lt;li&gt;Janyce Archutick&lt;/li&gt;
+  &lt;li&gt;Alex Hutchinson&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/10/Chilly/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/Chilly/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
     
       <item>
         <title>IGEN Self Branding Event</title>
@@ -325,116 +398,6 @@ We will be setting up a booth in the Kaiser Atrium from November 23  - 26 (11 am
         <pubDate>Mon, 23 Nov 2015 00:00:00 -0800</pubDate>
         <link>http://integratedengineers.ca/president-update/2015/11/23/Presidents-Update-November-23/</link>
         <guid isPermaLink="true">http://integratedengineers.ca/president-update/2015/11/23/Presidents-Update-November-23/</guid>
-        
-        
-        <category>president-update</category>
-        
-      </item>
-    
-      <item>
-        <title>President&#39;s Update for November 16 2015</title>
-        <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
-
-&lt;p&gt;Some very important updates below, so please read through today!&lt;/p&gt;
-
-&lt;h3 id=&quot;igen-general-meeting&quot;&gt;1. IGEN General Meeting&lt;/h3&gt;
-
-&lt;p&gt;The Integrated Engineering Council will be hosting a General Meeting for all students on Friday, November 20th, from 12:00 - 2:00 PM in CEME 1202. The goals of this meeting are to gain feedback regarding council activities up to this point, and have students discuss plans for next semester. Also discussed will be classes and curriculum, e-week consultation done in conjunction with the EUS, and assorted other IGEN related topics. Refreshments will be provided. Come and have a say in how your program functions!&lt;/p&gt;
-
-&lt;h3 id=&quot;igen-jackets&quot;&gt;2. IGEN jackets&lt;/h3&gt;
-
-&lt;p&gt;IGEN jackets are available to order! Here are the details:&lt;/p&gt;
-
-&lt;p&gt;Price: $110-$120 depending on how many we sell, so get your friends out!
-Sizing: XS to XL, men’s and women’s
-Colour: Slate for Men, Platinum or Black for Women&lt;/p&gt;
-
-&lt;p&gt;To try on sizing we have all of the sizes available in the IGEN clubroom until Wednesday.&lt;/p&gt;
-
-&lt;p&gt;Please fill out the following survey to order your jacket! We will detail payment options as soon as we have a final number on the orders. Please note orders are due by Wednesday Nov 18th at 12 noon!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://survey.ubc.ca/s/igen-jacket-signup/&quot;&gt;IGEN Jacket Order Form&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;krispy-kreme-fundraiser&quot;&gt;3. Krispy Kreme fundraiser&lt;/h3&gt;
-
-&lt;p&gt;Krispy Kreme Fundraiser - Help Wanted!&lt;/p&gt;
-
-&lt;p&gt;IGEN is growing in numbers each year and we need money to help cover costs for our shop supplies, clubroom, student affairs, and industry outreach. We will be setting up a booth in the Kaiser Atrium from November 23  - 26 (11 am - 2 pm everyday) and will be selling Krispy Kreme donuts for cheap:&lt;/p&gt;
-
-&lt;p&gt;$10/dozen, $1/single donut&lt;/p&gt;
-
-&lt;p&gt;Help booth, sell donuts and spread the word about IGEN! If you got 30mins to spare, or even more, help would be greatly appreciated! Sign up sheet will be posted on the bulletin in the clubroom.&lt;/p&gt;
-
-&lt;p&gt;Invite your friends to the facebook event (and check our new IGEN logo!):&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1046686905381749/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For questions, email Jael at igentreasurer@gmail.com&lt;/p&gt;
-
-&lt;p&gt;Thank you all, and we’ll see you this Friday at the General Meeting!&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/president-update/2015/11/16/Presidents-Update-November-16/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2015/11/16/Presidents-Update-November-16/</guid>
-        
-        
-        <category>president-update</category>
-        
-      </item>
-    
-      <item>
-        <title>Meet an IGENeer - Jesse Macht</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://cloud.githubusercontent.com/assets/12440671/10349967/4125caa2-6cf6-11e5-950e-95635269af20.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hello, my name is Jesse Macht and I am in my fourth year of Integrated Engineering. I am interested in fluid dynamics and controls engineering, so I have taken courses related to these interests through the Mechanical and Electrical departments, respectively. I have worked with design project teams and a local start up on the development of UAV technology for remote sensing applications in industry. I have also been involved in academic research into the lightweight alloys used for modern automotive and energy applications, both at UBC and McMaster University in Hamilton, Ontario.&lt;/p&gt;
-
-&lt;p&gt;Besides the academic and industry work I am involved in, I am very invested in engaging Integrating Engineering students on the social side of their degree experience. This year I am the E-Week representative for the Integrated Engineering Council and I am working with both the EUS and the Council to reimagine how we engage socially through E-Week events and activities. Please do not hesitate to contact me regarding E-Week, any of my academic or industry work, or about the IGEN degree in general. I would love to speak with you!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/meet-an-igeneer/2015/11/16/Meet-an-IGENeer-Jesse-Macht/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/meet-an-igeneer/2015/11/16/Meet-an-IGENeer-Jesse-Macht/</guid>
-        
-        
-        <category>meet-an-IGENeer</category>
-        
-      </item>
-    
-      <item>
-        <title>President&#39;s Update for November 9 2015</title>
-        <description>&lt;p&gt;Good morning,&lt;/p&gt;
-
-&lt;p&gt;Here are a couple important announcements for the coming week.&lt;/p&gt;
-
-&lt;h3 id=&quot;krispy-kreme-fundraiser&quot;&gt;1. Krispy Kreme Fundraiser&lt;/h3&gt;
-
-&lt;p&gt;Krispy Kreme Fundraiser - Help Wanted!&lt;/p&gt;
-
-&lt;p&gt;IGEN is growing in numbers each year and we need money to help cover costs for our shop supplies, clubroom, student affairs, and industry outreach. We will be setting up a booth in the Kaiser Atrium from November 23  - 26 (11 am - 2 pm everyday) and will be selling Krispy Kreme donuts for cheap:&lt;/p&gt;
-
-&lt;p&gt;$10/dozen, $1/single donut&lt;/p&gt;
-
-&lt;p&gt;Help booth, sell donuts and spread the word about IGEN! If you got 30mins to spare, or even more, help would be greatly appreciated! Sign up sheet will be posted on the bulletin in the clubroom.&lt;/p&gt;
-
-&lt;p&gt;Invite your friends to the facebook event (and check our new IGEN logo!):&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1046686905381749/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For questions, email Jael at igentreasurer@gmail.com&lt;/p&gt;
-
-&lt;h3 id=&quot;lunch-around-the-world&quot;&gt;2. Lunch Around the World&lt;/h3&gt;
-
-&lt;p&gt;The EUS on November 20th is hosting an event celebrating multiculturalism and food, two things we can all get behind! If someone wants to create an IGEN team and cook some awesome food, signup and details can be found below. Please note the deadline is November 11th for signup!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1515636585425788/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://ubcengineers.ca/events/social/lunch-around-the-world/&quot;&gt;EUS Website and Signup&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Thank you all for your attention, and have a great week!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Nov 2015 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/president-update/2015/11/09/Presidents-Update-November-09/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2015/11/09/Presidents-Update-November-09/</guid>
         
         
         <category>president-update</category>

@@ -10,4 +10,6 @@ permalink: /industry/project-showcase/
 
 <p>For more information about the IGEN Project Showcase please email industry@integratedengineers.ca, and to view past projects from previous years follow the link below.</p>
 
+<a href="/industry/current-projects">See this year's projects</a>
+
 </div>

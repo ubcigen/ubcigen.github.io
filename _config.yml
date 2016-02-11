@@ -15,5 +15,6 @@ markdown: kramdown
 gems:
 - jekyll-auto-image
 
+
 # Default image
 image: /images/truss.png
