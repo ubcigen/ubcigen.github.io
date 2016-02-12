@@ -6,12 +6,12 @@
 </description>
     <link>http://integratedengineers.ca/</link>
     <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 11:25:05 -0800</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 11:25:05 -0800</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2016 11:26:46 -0800</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 11:26:46 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>Project LandLatch Coaster</title>
+        <title>Project LandLatch</title>
         <description>&lt;p&gt;LandLatch is a visual feedback landing system to be used in conjunction with the existing Matrice 100 (M100) drone platform manufactured by DJI Drones and supplied to our group by Spire Aerobotics Inc. The LandLatch system utilizes bottom mounted cameras, a lightweight ultrasonic sensor and a powerful Intel processor to capture real-time visual data and aid the M100 flight controller in making intelligent flight maneuvers to land the drone safely and autonomously. This project is built in C++ and incorporates both the OpenCV and DJI Onboard SDK programming libraries. &lt;/p&gt;
 
 &lt;h3&gt;Team Members&lt;/h3&gt;

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Project LandLatch Coaster"
+title: "Project LandLatch"
 categories: IGEN-Project
 ---
 
