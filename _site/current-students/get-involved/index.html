@@ -198,13 +198,22 @@
 	 	<p> <a href="/">Home</a> | <a href="http://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU Licence</a> | <a href="http://www.ubc.ca" target="_blank">UBC</a> </p>
  	</div>
  </div>
- 
+
 </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <!-- Tapir search script -->
+
+    <script src="/jquery-tapir.min.js"></script>
+    <script type="text/javascript">
+    jQuery(function() {
+      $('#search_results').tapir({'token': '56bee96138930dee8a000000'});
+    });
+    </script>
 
 <!-- Google analytics tracking code -->
 <script>
@@ -217,7 +226,6 @@
   ga('send', 'pageview');
 
 </script>
-    
 
 
   </body>
