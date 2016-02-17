@@ -12,4 +12,16 @@ permalink: /industry/project-showcase/
 
 <a href="/industry/current-projects">See this year's projects</a>
 
+<br><br>
+
+        {% for post in site.posts %}
+          {% if page.categories =="IGEN-Project" %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% endif %}
+
+        {% endfor %}
+
+
 </div>
