@@ -6,15 +6,153 @@
 </description>
     <link>http://integratedengineers.ca/</link>
     <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Wed, 17 Feb 2016 11:13:34 -0800</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 11:13:34 -0800</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2016 10:56:06 -0800</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 10:56:06 -0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
-=======
-    <pubDate>Sat, 13 Feb 2016 00:55:10 -0800</pubDate>
-    <lastBuildDate>Sat, 13 Feb 2016 00:55:10 -0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
->>>>>>> 8028025045fd4ebba08eddb26117c248e8c82373
+    
+      <item>
+        <title>Pitted Power Motor</title>
+        <description>&lt;p&gt;We are constructing an attachable surfboard motor. This will help new surfers battle currents and large waves. It will also be useful to those with disabilities, surf instructors, or those who find paddling tiring.&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Keller&lt;/li&gt;
+  &lt;li&gt;Denny Lee&lt;/li&gt;
+  &lt;li&gt;Geneva Gordon&lt;/li&gt;
+  &lt;li&gt;Aaron Kopelow&lt;/li&gt;
+  &lt;li&gt;Shiv Mittal&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/23/Pitted-Power-Motor/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/23/Pitted-Power-Motor/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Smart Bathtub</title>
+        <description>&lt;p&gt;Smart Bathtub project is designed to enhance the bathing experience of people by providing remote access to bathtub using a cell phone or a tablet to control automatic-fill, temperature adjustments and jet settings. Sponsoring company: Valley Acrylic&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aahil Shaikh&lt;/li&gt;
+  &lt;li&gt;Faheem Naser&lt;/li&gt;
+  &lt;li&gt;Bana Batshon&lt;/li&gt;
+  &lt;li&gt;Ata Basaran&lt;/li&gt;
+  &lt;li&gt;Tan Hatipoglu&lt;/li&gt;
+  &lt;li&gt;Tom Pauw&lt;/li&gt;
+  &lt;li&gt;Tony Rainaldi&lt;/li&gt;
+  &lt;li&gt;Saif Al-Sulaiman&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/22/Smart-Bathtub/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/22/Smart-Bathtub/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Modulo</title>
+        <description>&lt;p&gt;Helmet mounted motorcycle accessories and smart helmets are limited in functionality because of their need for power. Modulo is a helmet mounted device which provides constant power to all rider devices.&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kiel Olver&lt;/li&gt;
+  &lt;li&gt;Cobi Yu&lt;/li&gt;
+  &lt;li&gt;Cyrus Larsen&lt;/li&gt;
+  &lt;li&gt;Katherine Wong&lt;/li&gt;
+  &lt;li&gt;Conor Macdonald&lt;/li&gt;
+  &lt;li&gt;Gabriela Roestandy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;This is a New Venture Design (NVD) project&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/19/Modulo/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/19/Modulo/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Pro-Lock</title>
+        <description>&lt;p&gt;A programmable deadbolt lock, capable of using multiple keys. &lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Michael Harvey&lt;/li&gt;
+  &lt;li&gt;Tom Smyth&lt;/li&gt;
+  &lt;li&gt;Greg Henderson&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 18 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/18/Pro-Lock/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/18/Pro-Lock/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>High Radiation Vacuum Beamline Connection System</title>
+        <description>&lt;p&gt;The High Radiation Vacuum Beamline Connection System (HRVBCS) will streamline the process of changing vacuum seals and clamping beamlines for TRIUMF&#39;s ARIEL project. The HRVBCS will unclamp, remove the used seal from, place a new seal on, and re-clamp the beamline from a vertical distance of two meters. This shortens the seal change time by up to 80%, reducing time employees are exposed to harmful radiation and increasing the accuracy in which the seal is placed.&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Andrew Li&lt;/li&gt;
+  &lt;li&gt;Daniel Vecino Perez&lt;/li&gt;
+  &lt;li&gt;Danny George, Devin Husslage&lt;/li&gt;
+  &lt;li&gt;Felipe Luna, Ian Jones&lt;/li&gt;
+  &lt;li&gt;Kushagra Sharma&lt;/li&gt;
+  &lt;li&gt;Tharesh Liyanage&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/14/High-Radiation-Vacuum-Beamline-Connection-System/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/14/High-Radiation-Vacuum-Beamline-Connection-System/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
+    
+      <item>
+        <title>Easy Breaks</title>
+        <description>&lt;p&gt;Easy to install, easy to use, universal brake system for long-boards&lt;/p&gt;
+
+&lt;h3&gt;Team Members&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Petar Hristov&lt;/li&gt;
+  &lt;li&gt;Mahdieh Eghtesad&lt;/li&gt;
+  &lt;li&gt;Tommaso D’Amico&lt;/li&gt;
+  &lt;li&gt;Bana Batshon&lt;/li&gt;
+  &lt;li&gt;Jerry Xiao&lt;/li&gt;
+  &lt;li&gt;Eugenio Rodriguez&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 14 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://integratedengineers.ca/igen-project/2016/02/14/Easy-Breaks/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/14/Easy-Breaks/</guid>
+        
+        
+        <category>IGEN-Project</category>
+        
+      </item>
     
       <item>
         <title>Project LandLatch</title>
@@ -106,221 +244,6 @@
         
         
         <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>Adjustable Wheelchair</title>
-        <description>&lt;p&gt;This project would allow a wheelchair to recline into a medical bed for emergency procedure such as CPR.&lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Haziq Arif&lt;/li&gt;
-  &lt;li&gt;Jasmin Liang&lt;/li&gt;
-  &lt;li&gt;Ian Lin&lt;/li&gt;
-  &lt;li&gt;Jael Lumba&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 11 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/11/Adjustable-Wheelchair/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/11/Adjustable-Wheelchair/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>LumenLock</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/images/LumenLock.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;LumenLock is an integrated medical dressing designed to improve the quality of care for patients who have central venous or peripherally inserted central catheters. Existing medical dressings fail to adequately secure central lines and are not waterproof, often leading to skin irritation due to frequent changes. LumenLock holds the line close to the body and forms a waterproof barrier over the catheter exit site. As a result, patients are less likely to accidentally pull out their lines and fewer dressing changes are required. LumenLock will be sold directly to hospitals, providing a more comfortable, time saving and cost efficient solution. &lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gabriel Lessard-Kragen&lt;/li&gt;
-  &lt;li&gt;Elizabeth Wicks&lt;/li&gt;
-  &lt;li&gt;Ben Blair&lt;/li&gt;
-  &lt;li&gt;Nick Geddes&lt;/li&gt;
-  &lt;li&gt;Ashley Anderson&lt;/li&gt;
-  &lt;li&gt;Sarah Moug&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/10/LumenLock/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/LumenLock/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>Levee Health Monitoring System</title>
-        <description>&lt;p&gt;
-Levee failures are frequent and have catastrophic social, economic, and environmental consequences. What if we could catch shifts in the levee before disastrous failure occurs? The levee health monitoring system does just this by alerting field workers to changes in a levee&#39;s three primary modes of failure: seepage, sliding, and erosion. This data is transmitted to a base station, allowing field workers to move beyond the insufficient visual inspections that are currently used in industry.
-&lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Katalin Sandor Johansen&lt;/li&gt;
-  &lt;li&gt;Sara Flanagan&lt;/li&gt;
-  &lt;li&gt;Kieran Bjornson&lt;/li&gt;
-  &lt;li&gt;Nate Croft&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/10/Levee-Health-Monitoring-System/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/Levee-Health-Monitoring-System/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>Chilly</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/images/Chilly.jpg&quot; style=&quot;max-height:200px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A temperature sensor that allows cafes and restaurants to automate and monitor their food safety. &lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rhea Sideris,&lt;/li&gt;
-  &lt;li&gt;Janyce Archutick&lt;/li&gt;
-  &lt;li&gt;Alex Hutchinson&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/10/Chilly/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/10/Chilly/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>IGEN Self Branding Event</title>
-        <description>&lt;p&gt;IGEN will be organizing a self-branding event to help anyone looking for feedback on resumes, cover letters, LinkedIn profiles or other essential professional resources. Bring your documents with you to the session to receive helpful tips and feedback from your peers!&lt;/p&gt;
-
-&lt;p&gt;We have many students who have obtained placements at high level firms such as Tesla, Microsoft, Kiewit, Trane, as well as various research and international opportunities. Come learn from their experience and tailor your brand and materials to have the same success.&lt;/p&gt;
-
-&lt;p&gt;See the facebook event &lt;a href=&quot;https://www.facebook.com/events/1695228674051828/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/event/2016/01/27/IGEN-Self-Branding-Event/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/event/2016/01/27/IGEN-Self-Branding-Event/</guid>
-        
-        
-        <category>event</category>
-        
-      </item>
-    
-      <item>
-        <title>President&#39;s Update for January 25 2016</title>
-        <description>&lt;p&gt;Hello all,&lt;/p&gt;
-
-&lt;p&gt;I hope you’re all having a wonderful Monday and are getting psyched up for e-week! Sorry for the long list, but &lt;strong&gt;please read everything here, there is important stuff.&lt;/strong&gt; Without any further ado, here are your updates:&lt;/p&gt;
-
-&lt;h3 id=&quot;igen-industry-night&quot;&gt;1. IGEN Industry Night&lt;/h3&gt;
-
-&lt;p&gt;The IGEN Project Showcase will be held on April 6th, in the West Atrium of the Life Science Centre. The purpose of this event is to showcase your year long projects, and the IGEN program to professors, parents, and members of Industry. If would like to invite any members of industry, professors or your parents please follow the link below:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1Fkmx8XejUMCXYncjDd-y5PuJqL6lJNO34NexxZtli3Q/viewform&quot;&gt;Google Form&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;e-week-signup&quot;&gt;2. E-week signup&lt;/h3&gt;
-
-&lt;p&gt;IGEN! E-Week is almost upon us! Please sign up for events on the following google doc. There are events for everyone, so get a group of friends together and go for it!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://drive.google.com/folderview?id=0B7XREd5s2s9ob1ZWSzhPV3RWajg&amp;amp;usp=drive_web&quot;&gt;E-Week Signup Sheet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For the social events, put your name down for the ones you’re interested in so that you can see which of your friends are interested in going! This year IGEN has a great opportunity to not only fight for the the title of E-Week champs, but also to put our best foot forward as the brightest up-and-coming program in the faculty.&lt;/p&gt;
-
-&lt;h3 id=&quot;old-red-new-red&quot;&gt;3. Old Red New Red&lt;/h3&gt;
-
-&lt;p&gt;This event is getting a huge face-lift this year, so you need to sign-up in advance! I highly recommend you take this opportunity to network with alumni.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1515702418726437/&quot;&gt;Facebook Event and Sign-up&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;engineers-ball&quot;&gt;4. Engineers Ball&lt;/h3&gt;
-
-&lt;p&gt;This event also has a seperate signup. Come out and celebrate the end of e-week with the most formal event of the year! Mre details can be found below:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/610760795729347/&quot;&gt;Facebook Event and Sign-Up&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;pre-e-week-party&quot;&gt;5. Pre E-week party&lt;/h3&gt;
-
-&lt;p&gt;Friday, January 29th will be IGEN’s Pre-E-Week party! We’ll be getting getting into the E-Week spirit with tryouts for Boat Races and Foosball. Beer and snacks will be provided for the tryouts! The event will start at 4pm and take place in our clubroom.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/433342116875290/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;iron-ring-information-session&quot;&gt;6. Iron Ring information session&lt;/h3&gt;
-
-&lt;p&gt;The info session will be held on Feb 25th, 1:30-2:30pm at the Norm Theatre in the Old SUB.&lt;/p&gt;
-
-&lt;p&gt;At the sessions Camp 5 Wardens will provide valuable information regarding procedure at the Ceremony and the history and tradition of the Iron Ring. Attendance is mandatory;  and anyone who is unable to attend a Briefing Session due to a legitimate critical alternate commitment only, must appoint a class-mate to take notes on their behalf.&lt;/p&gt;
-
-&lt;p&gt;Schedule of events:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Time&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Event&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1:30 pm&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Students arrive at the Norm Theatre&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1:45 pm&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;All students seated / presentation starts&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2:15 pm&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Presentation finished, up to 15 minutes for Q &amp;amp; A for students&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2:30 pm&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Students start to clear out.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;upper-year-project-mentorship&quot;&gt;7. Upper year project mentorship&lt;/h3&gt;
-
-&lt;p&gt;The IGEN council is searching for up to 10 3rd of 4th year students to help with the IGEN 230 class. Your role would be to help mentor a second year project group, providing advice for sourcing, industry night, and any other resources that they may need. This is very flexible and is an awesome way to meet more students in our department! If interested please email me at igenpresident@gmail.com. We already have a few people, but the more the merrier!&lt;/p&gt;
-
-&lt;h3 id=&quot;sports-apparel&quot;&gt;8. Sports apparel&lt;/h3&gt;
-
-&lt;p&gt;IGEN will be doing athletic tops for the next IGEN apparel order. There are a few options (see attached document) so if you are interested please fill out the facebook poll (in the IGEN Group) and indicate which option(s) you would like and what color (black, red, white). After one week we will take all the feedback and determine which option we are going to order. The cost will be around $15&lt;/p&gt;
-
-&lt;h3 id=&quot;personal-branding-workshop&quot;&gt;9. Personal branding workshop&lt;/h3&gt;
-
-&lt;p&gt;This event will pair you with an experienced older student who can give you a hand with your resume, cover letter, interview skills, LinkedIn, you name it. The idea is to help you tailor your applications to best achieve the positions you want. This is a super valuable opportunity, and can push you towards success. Come on out this Wednesday, January 27th, from 5-7PM in the IGEN clubroom.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1695228674051828/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;first-aid-course&quot;&gt;10. First Aid course&lt;/h3&gt;
-
-&lt;p&gt;So you may have seen a signup sheet in the IGEN clubroom last semester for an Emergency first aid course coming to certify IGEN students. We have set a date for this on February 27th from 9:00 to 5:00 on UBC campus (exact room to be determined) and will cost $85. If you are interested and would like to sign up or get more information, please send me an email at lance.cburnett@gmail.com.&lt;/p&gt;
-
-&lt;p&gt;The certification is Emergency First Aid with CPR/AED Level C.
-Students outside of IGEN are welcome to join, however we would like to give IGEN students the opportunity to sign up first (there are limited seats) so please wait until Wednesday (January 27) before inviting them.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/president-update/2016/01/25/Presidents-Update-January-25/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2016/01/25/Presidents-Update-January-25/</guid>
-        
-        
-        <category>president-update</category>
         
       </item>
     
