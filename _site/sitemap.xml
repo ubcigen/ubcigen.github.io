@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://integratedengineers.ca/igen-council/2016/03/08/IGEN-Council-Roles/</loc>
+<lastmod>2016-03-08T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://integratedengineers.ca/president-update/2016/03/07/Presidents-Update-March-07/</loc>
 <lastmod>2016-03-07T00:00:00-08:00</lastmod>
 </url>
@@ -202,6 +206,6 @@
 </url>
 <url>
 <loc>http://integratedengineers.ca/index.html</loc>
-<lastmod>2016-02-12T22:45:50-08:00</lastmod>
+<lastmod>2016-01-20T14:49:09-08:00</lastmod>
 </url>
 </urlset>
