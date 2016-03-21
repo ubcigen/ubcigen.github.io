@@ -43,7 +43,7 @@ permalink: /current-students/facilities/
 
 	<h2>Term 2 locker availability</h2>
 	<div class="progress">
-  		<div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="42" aria-valuemin="0" aria-valuemax="47" style="width:89%"> 5 lockers available</div>
+  		<div class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="47" aria-valuemin="0" aria-valuemax="47" style="width:100%"> 0 lockers available</div>
 	</div>
 		
 
