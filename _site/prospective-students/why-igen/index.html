@@ -267,8 +267,8 @@ var fourthText = s.text(820,500, "Fourth Year");
 // lines
 var mattLine = s.path("M400 500 S 600 500 600 310 L 630 150 S 50 50 130 500 L 100 650");
 var janyceLine = s.path("M 400 350 L 420 170 L 500 110 S 80 80 80 500");
-var cobiLine = s.path("M 420 420 L 500 300 L 340 340 L 240 500 L 150 600");
-var gabLine = s.path("M450 450 S 400 500 340 400 S 300 320 340 280 S 450 200 600 250 S 800 500 850 600");
+var cobiLine = s.path("M 500 500 L 500 700 S 250 700 280 340 L 240 500 L 150 600");
+var gabLine = s.path("M450 450 S 400 500 340 400 S 300 320 340 280 S 650 200 800 350 S 600 500 760 760");
 
 cobiLine.attr({
 stroke: "#c0392b",
@@ -335,7 +335,7 @@ pointJanyce5.append( textJanyce5 );
 var Janyce = s.group(pointJanyce1,pointJanyce2,pointJanyce4,pointJanyce5);
 
 // Cobi's PATH %%%%%%%%%%%%%%%%%%%%%%%
-var pointCobi1 = s.circle(340,340,20);
+var pointCobi1 = s.circle(280,340,20);
 var textCobi1 = Snap.parse('<title>MECH325 "Mechanical Design I" - Fundamental principles in analyzing, selecting and designing basic mechanical components: gears, shafts, bearings, supports, etc. This course is essential for mechanical design-related careers.</title>');
 pointCobi1.append( textCobi1 );
 
@@ -343,11 +343,11 @@ var pointCobi2 = s.circle(240,500,20);
 var textCobi2 = Snap.parse('<title>ELEC302 "Electromechanical Design" - Fundamental principles in analyzing, selecting and designing basic circuit elements: diodes, op-amps, transistors, RLCs, etc. Course provides hands-on experience in basic electronics design and analysis.</title>');
 pointCobi2.append( textCobi2 );
 
-var pointCobi3 = s.circle(420,420,20);
+var pointCobi3 = s.circle(500,500,20);
 var textCobi3 = Snap.parse('<title>Project 1: Automatic Crutch - Designed and built an ergonomic spring-loaded crutch with the purpose of allowing users to conveniently traverse stairs while on crutches</title>');
 pointCobi3.append( textCobi3 );
 
-var pointCobi4 = s.circle(500,300,20);
+var pointCobi4 = s.circle(500,700,20);
 var textCobi4 = Snap.parse('<title>Project 2: "Project X-Site" - Created an autonomous drone (hexcopter) for the purpose of aerial terrain mapping, allowing users to accurately calculate volumes within a specific area. Useful for large construction sites in raw materials measurements and tracking.</title>');
 pointCobi4.append( textCobi4 );
 
@@ -370,11 +370,11 @@ var pointGab3 = s.circle(340,400,20);
 var textGab3 = Snap.parse('<title>Project 2: Rescue Balloon - IGEN Challenge Project to create a permanent flare for emergency situations</title>');
 pointGab3.append( textGab3 );
 
-var pointGab4 = s.circle(850,600,20);
+var pointGab4 = s.circle(760,760,20);
 var textGab4 = Snap.parse('<title>CIVL 493 - Construction Case Management - Gained background in productivity analysis and real world application of construction project management. Key experience for understanding how to problem solve in industry, not necessarily in construction</title>');
 pointGab4.append( textGab4 );
 
-var pointGab5 = s.circle(600,250,20);
+var pointGab5 = s.circle(800,350,20);
 var textGab5 = Snap.parse('<title>Project 3: LumenLock - New waterproof port and dressing for CVC lines. Part of the New Venture Design course</title>');
 pointGab5.append( textGab5 );
 
