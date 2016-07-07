@@ -6,9 +6,56 @@
 </description>
     <link>http://integratedengineers.ca/</link>
     <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 15:00:37 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 15:00:37 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Wed, 06 Jul 2016 17:11:50 -0700</pubDate>
+    <lastBuildDate>Wed, 06 Jul 2016 17:11:50 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>APSCI Rising Stars 2016</title>
+        <description>&lt;h1 id=&quot;congratulations-to-the-apsci-rising-stars-2016&quot;&gt;Congratulations to the APSCI Rising Stars 2016.&lt;/h1&gt;
+
+&lt;p&gt;5 of the 21 students chosen as APSCI Rising Stars in 2016 are our very own Integrated Engineering graduates. See a quick quote from them below, and click on them to read their full interviews.&lt;/p&gt;
+
+&lt;h3&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apsc.ubc.ca/spotlight/cobi-yu&quot;&gt;Cobi Yu&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Take the time to make meaningful connections outside the classroom, join a student team/organization, find people who are passionate about the things you are – the relationships you make during university are lifelong.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apsc.ubc.ca/spotlight/gabriel-lessard&quot;&gt;Gabriel Lessard-Kragen&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;” Throughout an engineering degree, I think you learn not so much what you know, but more what you don’t know.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apsc.ubc.ca/spotlight/john-robert-mackenzie&quot;&gt;John Robert MacKenzie&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;” There are few problems so insurmountable that they are not worth trying to solve.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apsc.ubc.ca/spotlight/kiel-olver&quot;&gt;Kiel Olver&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Far too many people overvalue material wealth and vanity and many technologies are developed that contribute to that mindset. I want to create technology that improves utility, life experience and relationships.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://apsc.ubc.ca/spotlight/sara-flanagan&quot;&gt;Sara Flanagan&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;” Continuous learning keeps your mind active and keeps you relevant and dynamic. Time spent learning is always time well invested.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Congratulations to our rising stars of 2016. Go IGEN!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jul 2016 00:00:00 -0700</pubDate>
+        <link>http://integratedengineers.ca/news/2016/07/06/APSCI-Rising-Stars/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/news/2016/07/06/APSCI-Rising-Stars/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>President&#39;s Update for March 14 2016</title>
@@ -659,30 +706,6 @@ applicable&lt;/p&gt;
         <pubDate>Thu, 18 Feb 2016 00:00:00 -0800</pubDate>
         <link>http://integratedengineers.ca/igen-project/2016/02/18/Pro-Lock/</link>
         <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/18/Pro-Lock/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>High Radiation Vacuum Beamline Connection System</title>
-        <description>&lt;p&gt;The High Radiation Vacuum Beamline Connection System (HRVBCS) will streamline the process of changing vacuum seals and clamping beamlines for TRIUMF&#39;s ARIEL project. The HRVBCS will unclamp, remove the used seal from, place a new seal on, and re-clamp the beamline from a vertical distance of two meters. This shortens the seal change time by up to 80%, reducing time employees are exposed to harmful radiation and increasing the accuracy in which the seal is placed.&lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Andrew Li&lt;/li&gt;
-  &lt;li&gt;Daniel Vecino Perez&lt;/li&gt;
-  &lt;li&gt;Danny George, Devin Husslage&lt;/li&gt;
-  &lt;li&gt;Felipe Luna, Ian Jones&lt;/li&gt;
-  &lt;li&gt;Kushagra Sharma&lt;/li&gt;
-  &lt;li&gt;Tharesh Liyanage&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 14 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/14/High-Radiation-Vacuum-Beamline-Connection-System/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/14/High-Radiation-Vacuum-Beamline-Connection-System/</guid>
         
         
         <category>IGEN-Project</category>
