@@ -65,7 +65,7 @@ $dropDown       : true;
   font-family: 'MyWebFont', sans-serif;
   .navbar-brand {
     color: $colDefault;
-    &:hover, &:focus { 
+    &:hover, &:focus {
       color: $colHighlight; }}
   .navbar-text {
     color: $colDefault; }
@@ -138,7 +138,7 @@ padding-top:10%;
 background-size: cover;
 }
 
-@font-face{ 
+@font-face{
 	font-family: 'MyWebFont';
 	src: url('WebFont.eot');
 	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
@@ -158,7 +158,7 @@ color: white;
 }
 
 h1,h2,h3,h4{
-	
+
 	font-family: 'MyWebFont', sans-serif;
 }
 
@@ -197,4 +197,8 @@ th{
   border: 1px solid black;
   background-color: $red-color-dark;
   color: white;
+}
+
+.red{
+  color: $red-color-dark;
 }
