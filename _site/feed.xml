@@ -6,9 +6,69 @@
 </description>
     <link>http://integratedengineers.ca/</link>
     <atom:link href="http://integratedengineers.ca/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 15:58:27 -0700</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 15:58:27 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 09:16:41 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 09:16:41 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>President's Update for September 12 2016</title>
+        <description>&lt;p&gt;Hello IGEN,&lt;/p&gt;
+
+&lt;p&gt;Now that the term is ramping up I wanted to update you all with what’s going on in IGEN. If you’re an IGEN 2, this is your first weekly update!&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;
+&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; Graduating students please read the note regarding grad photos.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quick-reminders&quot;&gt;Quick Reminders&lt;/h3&gt;
+
+&lt;p&gt;The door to the electrical room will not shut properly under its own weight, please remember to pull the door shut until this is resolved.
+Please do not prop open the doors between the electrical room and the computer lab. This is how equipment gets stolen.
+This Tuesday September 13th and Thursday September 15 from 2:00pm to 3:30pm will be orientation periods for the 2nd years. We will require the clubroom, shop, and electrical room to be unoccupied during these periods.&lt;/p&gt;
+
+&lt;h3 id=&quot;year-reps&quot;&gt;Year Reps:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;2nd Years:&lt;/strong&gt;
+Thanks to those of you who have expressed interest in becoming your year rep! Elections will happen during your IGEN 230 lecture this Thursday September 15. If you’re interested in becoming 2nd Year Rep, you’ll have a brief few minutes to explain why you should represent your peers on the IGEN Council. The election will occur immediately after using the “heads down / hands up” method.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3rd Years:&lt;/strong&gt;
+As Kate Mason was the only one to express interest in this position, she will be your 3rd Year Rep.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graduate Students:&lt;/strong&gt;
+We still need a rep for your year! Please let me know ASAP if you’re interested in being a rep.&lt;/p&gt;
+
+&lt;h3 id=&quot;igen-jackets&quot;&gt;IGEN Jackets&lt;/h3&gt;
+
+&lt;p&gt;I still have a few jackets left that haven’t been claimed and/or paid for. If you ordered yours before the summer please contact me and I can give yours to you.&lt;/p&gt;
+
+&lt;h3 id=&quot;eus-sustainability-rep&quot;&gt;EUS Sustainability Rep&lt;/h3&gt;
+
+&lt;p&gt;Passionate about sustainability? The EUS (Engineering Undergraduate Society) is looking for reps from each engineering program for their sustainability committee. This is would require a very minimal commitment to the EUS (approx. 3 meetings a term) and you’ll have a chance to shape the EUS’s sustainability policy for years to come! If you’re interested let me know!&lt;/p&gt;
+
+&lt;h3 id=&quot;slack&quot;&gt;Slack&lt;/h3&gt;
+
+&lt;p&gt;Tired of using Facebook groups and various forms of groupchats to organize your projects groups? Check out Slack! This project management website was even used by NASA’s Jet Propulsion Laboratory! This software integrates forum discussions with file sharing seamlessly to facilitate the development of a group project. Check out the link below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;graduation-photos&quot;&gt;Graduation Photos&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(If you are not graduating, disregard this section)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are graduating in Summer 2017, you will need to get your grad photos taken before October 29, 2016. Evangelos Photography Ltd., located at 3156 West Broadway, Vancouver B.C., will be taking your photos. You will need to book your own appointments. Please note that bookings will be made online only at the following link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.myevangelosphotography.com/webordering/&quot;&gt;Evangelos Online Bookings&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;At the time of your photos being taken, you will need to bring a $45.00 &lt;strong&gt;cash deposit&lt;/strong&gt; that will be credited towards your final order. However if you do not inquire about your photos or place an order within 60 days following the photos being taken, this deposit will no longer be refundable nor will it be credited towards your order.  Please see the attached documents for information regarding packages offered by Evangelos Photography Ltd., their working hours, and other information.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0700</pubDate>
+        <link>http://integratedengineers.ca/president-update/2016/09/12/Presidents-Update-September-12/</link>
+        <guid isPermaLink="true">http://integratedengineers.ca/president-update/2016/09/12/Presidents-Update-September-12/</guid>
+        
+        
+        <category>president-update</category>
+        
+      </item>
     
       <item>
         <title>A memo on clubroom lockers</title>
@@ -717,32 +777,6 @@ applicable&lt;/p&gt;
         <pubDate>Tue, 23 Feb 2016 00:00:00 -0800</pubDate>
         <link>http://integratedengineers.ca/igen-project/2016/02/23/Pitted-Power-Motor/</link>
         <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/23/Pitted-Power-Motor/</guid>
-        
-        
-        <category>IGEN-Project</category>
-        
-      </item>
-    
-      <item>
-        <title>Smart Bathtub</title>
-        <description>&lt;p&gt;Smart Bathtub project is designed to enhance the bathing experience of people by providing remote access to bathtub using a cell phone or a tablet to control automatic-fill, temperature adjustments and jet settings. Sponsoring company: Valley Acrylic&lt;/p&gt;
-
-&lt;h3&gt;Team Members&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aahil Shaikh&lt;/li&gt;
-  &lt;li&gt;Faheem Naser&lt;/li&gt;
-  &lt;li&gt;Bana Batshon&lt;/li&gt;
-  &lt;li&gt;Ata Basaran&lt;/li&gt;
-  &lt;li&gt;Tan Hatipoglu&lt;/li&gt;
-  &lt;li&gt;Tom Pauw&lt;/li&gt;
-  &lt;li&gt;Tony Rainaldi&lt;/li&gt;
-  &lt;li&gt;Saif Al-Sulaiman&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 22 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://integratedengineers.ca/igen-project/2016/02/22/Smart-Bathtub/</link>
-        <guid isPermaLink="true">http://integratedengineers.ca/igen-project/2016/02/22/Smart-Bathtub/</guid>
         
         
         <category>IGEN-Project</category>
