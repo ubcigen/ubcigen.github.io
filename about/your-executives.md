@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your Council	
+title: Your Council
 permalink: /about/your-council/
 ---
 
@@ -13,17 +13,17 @@ permalink: /about/your-council/
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085166/60964fa4-62bc-11e5-8486-ffb3f99e3b6e.png" alt="...">
+	      <img src="/images/president.jpg" alt="...">
 	      <div class="caption">
 	        <h3>President</h3>
-	        <p>Gabriel Lessard-Kragen</p>
+	        <p>Quinn Richardson</p>
 	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085300/47b8621e-62bd-11e5-9233-76e8faac5319.png" alt="...">
@@ -34,9 +34,9 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10467881/058d8984-71b1-11e5-8649-1893a08dee67.png" alt="...">
@@ -62,9 +62,9 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085390/d04d2f88-62bd-11e5-9c6a-7343a6f14942.png" alt="...">
@@ -75,9 +75,9 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10493345/6e13137a-7265-11e5-9e67-9281347fc319.png" alt="...">
@@ -102,7 +102,7 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
+
 	<div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="/images/VPSocial.jpg" alt="...">
@@ -114,7 +114,7 @@ permalink: /about/your-council/
 	    </div>
 	  </div>
 
-	
+
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10724759/2428a5d6-7b84-11e5-9a12-b5c45bbbebc4.png" alt="...">
@@ -125,7 +125,7 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	 </div> 
+	 </div>
 
 	<br>
 	<hr>
@@ -169,11 +169,11 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	</div> 
+	</div>
 
 
 	<div class="row">
-	  
+
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085727/98930b24-62bf-11e5-9271-f2458ba5127b.png" alt="...">
@@ -184,9 +184,9 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085778/e7fe7202-62bf-11e5-8d14-102985cd7627.png" alt="...">
@@ -197,9 +197,9 @@ permalink: /about/your-council/
 	      </div>
 	    </div>
 	  </div>
-	
 
-	
+
+
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085918/777f0306-62c0-11e5-841c-e2aab0b9b62d.png" alt="...">
@@ -211,10 +211,8 @@ permalink: /about/your-council/
 	    </div>
 	  </div>
 	</div>
-	
+
 
 
 
 </div>
-
-
