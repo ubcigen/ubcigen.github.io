@@ -6,9 +6,10 @@ permalink: /about/your-council/
 
 <div class="container">
 
-	<h2>IGEN Executive Council 2015/2016</h2>
+	<h2>IGEN Executive Council 2016/2017</h2>
 	<br>
 	<br>
+	<div class="alert alert-info"><h3><i class="fa fa-exclamation-triangle"></i> <i class="fa fa-refresh"></i> This page is being updated</h3><p>We request your patience while we put up profiles for the new council. Apologies for any inconveniences caused.</p></div>
 
 	<div class="row">
 	  <div class="col-md-4">
@@ -22,28 +23,24 @@ permalink: /about/your-council/
 	    </div>
 	  </div>
 
-
-
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085300/47b8621e-62bd-11e5-9233-76e8faac5319.png" alt="...">
+	      <img src="/images/treasurer.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Treasurer</h3>
-	        <p>Jael Lumba</p>
-	        <p><a href="mailto:lumbajael@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Harjot Toor</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
-
-
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10467881/058d8984-71b1-11e5-8649-1893a08dee67.png" alt="...">
+	      <img src="/images/vpacademic.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>VP Academic</h3>
-	        <p>Achintya Verma</p>
-	        <p><a href="mailto:achintya.verma@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Connor White</p>
+	        <p><a href="mailto:connor.white63@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -54,29 +51,25 @@ permalink: /about/your-council/
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10468122/2a3151de-71b2-11e5-8c12-8382de5e8047.png" alt="...">
+	      <img src="/images/vpexternal.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>VP External</h3>
-	        <p>Mathieu Haiart</p>
-	        <p><a href="mailto:mathieuhaiart@hotmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Alex Hutchinson</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
-
-
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085390/d04d2f88-62bd-11e5-9c6a-7343a6f14942.png" alt="...">
+	      <img src="/images/vpstudentlife.jpeg" alt="...">
 	      <div class="caption">
-	        <h3>VP External</h3>
-	        <p>Kiel Olver</p>
-	        <p><a href="mailto:kiel.olver@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <h3>VP Student Life</h3>
+	        <p>Sam Lai</p>
+	        <p><a href="mailto:samjlai@hotmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
-
-
 
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
@@ -90,36 +83,23 @@ permalink: /about/your-council/
 	  </div>
 	</div>
 
-
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10493660/2ceab9dc-7267-11e5-8436-6707a3a879c6.png" alt="...">
+	      <img src="/shopsupervisor.jpeg" alt="...">
 	      <div class="caption">
-	        <h3>Shop Supervisor</h3>
-	        <p>Lachlan Pedersen</p>
-	        <p><a href="mailto:lockiepeds1@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <h3>Chief Shop Supervisor</h3>
+	        <p>Cameron Yuen</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
-
-	<div class="col-md-4">
-	    <div class="thumbnail">
-	      <img src="/images/VPSocial.jpg" alt="...">
-	      <div class="caption">
-	      	<h3>VP Social</h3>
-	      	<p>Will Stratton</p>
-	      	<p><a href="wstratton26@gmail.com" class="btn btn-primary" role="button">Email</a></p>
-	      </div>
-	    </div>
-	  </div>
-
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
 	      <img src="https://cloud.githubusercontent.com/assets/12440671/10724759/2428a5d6-7b84-11e5-9a12-b5c45bbbebc4.png" alt="...">
 	      <div class="caption">
-	      	<h3>Webmaster</h3>
+	      	<h3>VP Communications</h3>
 	      	<p>Darshan Soni</p>
 	      	<p><a href="mailto:site@integratedengineers.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
@@ -139,33 +119,33 @@ permalink: /about/your-council/
 	<div class="row">
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085491/4c038780-62be-11e5-82e3-470c0be6440b.png" alt="...">
+	      <img src="/images/gradrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Graduation Representative</h3>
-	        <p>Cobi Yu</p>
-	        <p><a href="mailto:cobiyu92@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>TBD</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085638/1d66ae1a-62bf-11e5-8ab1-407f60107073.png" alt="...">
+	      <img src="/images/sportsrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Sports Representative</h3>
-	        <p>Tanya Bennet</p>
-	        <p><a href="mailto:bennet.ubc@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Jason Miller</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10349967/4125caa2-6cf6-11e5-950e-95635269af20.png" alt="...">
+	      <img src="/images/eweekrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>E-Week Representative</h3>
-	        <p>Jesse Macht</p>
-	        <p><a href="mailto:jmacht@shaw.ca" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Cameron Yuen</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -176,11 +156,11 @@ permalink: /about/your-council/
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085727/98930b24-62bf-11e5-9271-f2458ba5127b.png" alt="...">
+	      <img src="/images/secondyearrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Second Year Representative</h3>
-	        <p>Aaron Kopelow</p>
-	        <p><a href="mailto:ajkopelow@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Theresa Kikuchi</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -189,24 +169,22 @@ permalink: /about/your-council/
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085778/e7fe7202-62bf-11e5-8d14-102985cd7627.png" alt="...">
+	      <img src="/images/thirdyearrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Third Year Representative</h3>
-	        <p>Lance Burnett</p>
-	        <p><a href="mailto:lance.cburnett@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>TBD</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
-
-
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10085918/777f0306-62c0-11e5-841c-e2aab0b9b62d.png" alt="...">
+	      <img src="/images/fourthyearrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Fourth Year Representative</h3>
-	        <p>Janyce Archutick</p>
-	        <p><a href="mailto:janyce.archutick@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>TBD</p>
+	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
