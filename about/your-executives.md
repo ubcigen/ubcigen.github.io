@@ -62,7 +62,7 @@ permalink: /about/your-council/
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/vpstudentlife.jpeg" alt="...">
+	      <img src="/images/vpstudentlife.jpg" alt="...">
 	      <div class="caption">
 	        <h3>VP Student Life</h3>
 	        <p>Sam Lai</p>
