@@ -66,7 +66,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>VP Student Life</h3>
 	        <p>Sam Lai</p>
-	        <p><a href="mailto:samjlai@hotmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:vpstudentlife@integratedengineers.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -122,8 +122,8 @@ permalink: /about/your-council/
 	      <img src="/images/gradrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Graduation Representative</h3>
-	        <p>TBD</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Hank Hsu</p>
+	        <p><a href="mailto:hank-hsu@live.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -160,7 +160,7 @@ permalink: /about/your-council/
 	      <div class="caption">
 	        <h3>Second Year Representative</h3>
 	        <p>Theresa Kikuchi</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p><a href="mailto:twesa96@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -172,8 +172,8 @@ permalink: /about/your-council/
 	      <img src="/images/thirdyearrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Third Year Representative</h3>
-	        <p>TBD</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Kate Mason</p>
+	        <p><a href="mailto:mason.kate9@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -183,8 +183,8 @@ permalink: /about/your-council/
 	      <img src="/images/fourthyearrep.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Fourth Year Representative</h3>
-	        <p>TBD</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Hank Hsu</p>
+	        <p><a href="mailto:hank-hsu@live.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
