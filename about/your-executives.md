@@ -86,7 +86,7 @@ permalink: /about/your-council/
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/shopsupervisor.jpeg" alt="...">
+	      <img src="/images/shopsupervisor.jpeg" alt="...">
 	      <div class="caption">
 	        <h3>Chief Shop Supervisor</h3>
 	        <p>Cameron Yuen</p>
