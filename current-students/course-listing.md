@@ -4,6 +4,7 @@ title: Course Listing
 permalink: /current-students/course-listing/
 ---
 
+This is a general guide and may be inaccurate when policies change. In case of conflict, information on the official [UBC calendar](http://www.calendar.ubc.ca/vancouver/courses.cfm) outranks this site.
 
 # Second Year
 
@@ -31,14 +32,14 @@ permalink: /current-students/course-listing/
 | Course Name | Credits | Description |
 |---|---|
 | CHBE 344 | 3 | Unit Operations 1 |
-| EECE 365 | 3 | Applied Electronics and Electromechanics |
+| ELEC 365 | 3 | Applied Electronics and Electromechanics |
 | IGEN 330 | 6 | Intermediate Engineering Design |
 | IGEN 340 | 3 | Technology Entrepreneurship |
 | MECH 360 | 3 | Mechanics of Materials 1 |
 | MECH 375 | 3 | Heat Transfer 1 |
 | MTRL 280 | 3 | Materials in Design |
 | STAT 251 | 3 | Elementary Statistics |
-| One of CHBE 356, EECE 360 | 3 | Process Dynamics and Control or Control Theory and Systems |
+| One of CHBE 356, ELEC 341 | 3 | Process Dynamics and Control or Control Theory and Systems |
 | Technical electives | 6 | See Technical Electives section |
 | Complementary Studies electives| 3 | See Complementary Studies section |
 | **Total Credits** | **39** ||
@@ -55,7 +56,7 @@ permalink: /current-students/course-listing/
 | IGEN 430 | 6 | Advanced Engineering Design |
 | MINE 482 | 3 | Maintenance Engineering |
 | MTRL 340 | 3 | Manufacturing in Materials Engineering |
-| One of CHBE 459, CIVL 403, EECE 450, MECH 431, MINE 396, MTRL 455 | 3 | Engineering Economics |
+| One of CHBE 459, CIVL 403, ELEC 481, MECH 431, MINE 396, MTRL 455 | 3 | Engineering Economics |
 | Technical electives | 12 | See Technical Electives section |
 | Complementary Studies electives | 3 | See Complementary Studies section |
 | **Total Credits** | **35** ||
