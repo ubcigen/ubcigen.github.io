@@ -1,10 +1,13 @@
 ---
+title: President's Update for March 14 2016
+date: 2016-03-14 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for March 14 2016"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Hello everyone,
 
 There are a lot of updates this week as it is a busy time at IGEN HQ. Please take the time to review everything as there is some critical information.

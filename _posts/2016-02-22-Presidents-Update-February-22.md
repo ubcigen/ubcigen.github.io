@@ -1,10 +1,13 @@
 ---
+title: President's Update for February 22 2016
+date: 2016-02-22 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for February 22 2016"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Good afternoon everyone,
 
 I hope you all had a wonderful reading break and are feeling refreshed and ready to tackle the end of the school year! For those graduating, you're almost there! This week we have some very important things that MUST be filled out in the next week, so please read carefully. Without further ado, here are the updates.

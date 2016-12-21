@@ -1,9 +1,11 @@
 ---
+title: President's Update for September 20 2016
+date: 2016-09-20 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for September 20 2016"
-categories: president-update
 author: Quinn Richardson
-image: /images/truss.png
+image: "/images/truss.png"
 ---
 
 Greetings,

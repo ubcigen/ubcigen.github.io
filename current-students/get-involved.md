@@ -1,7 +1,7 @@
 ---
+title: Get Involved
+permalink: "/current-students/get-involved/"
 layout: page
-title: Get Involved	
-permalink: /current-students/get-involved/
 ---
 
 <div class="container-fluid lifepicture" style="height:800px">

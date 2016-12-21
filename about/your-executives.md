@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Your Council
-permalink: /about/your-council/
+permalink: "/about/your-council/"
+layout: page
 ---
 
 <div class="container">

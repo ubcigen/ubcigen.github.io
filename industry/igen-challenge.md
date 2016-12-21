@@ -1,7 +1,7 @@
 ---
-layout: page
 title: IGEN Challenge
-permalink: /industry/igen-challenge
+permalink: "/industry/igen-challenge"
+layout: page
 ---
 
 <div class="container">

@@ -1,9 +1,11 @@
 ---
+title: IGEN Self Branding Event
+date: 2016-01-27 00:00:00 Z
+categories:
+- event
 layout: post
-title: "IGEN Self Branding Event"
-categories: event
 author: Darshan Soni
-image: /images/eventpersonalbrand.jpg
+image: "/images/eventpersonalbrand.jpg"
 ---
 
 IGEN will be organizing a self-branding event to help anyone looking for feedback on resumes, cover letters, LinkedIn profiles or other essential professional resources. Bring your documents with you to the session to receive helpful tips and feedback from your peers!

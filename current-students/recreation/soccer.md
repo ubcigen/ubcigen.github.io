@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Soccer Team
-permalink: /current-students/recreation/soccer/
+permalink: "/current-students/recreation/soccer/"
+layout: post
 ---
 
 <div class="container-fluid sportspicture" style="height:300px">

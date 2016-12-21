@@ -1,10 +1,13 @@
 ---
+title: President's Update for November 9 2015
+date: 2015-11-09 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for November 9 2015"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Good morning,
 
 Here are a couple important announcements for the coming week.

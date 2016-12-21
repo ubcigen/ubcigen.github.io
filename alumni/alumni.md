@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Alumni
-permalink: /alumni/
+permalink: "/alumni/"
+layout: page
 ---
 
 <div class="container-fluid alumnipicture" style="height:800px">

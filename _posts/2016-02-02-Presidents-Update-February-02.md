@@ -1,10 +1,13 @@
 ---
+title: President's Update for February 02 2016
+date: 2016-02-02 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for February 02 2016"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Hello everyone,
 
 Apologies for the late email. This week we have a long list of announcements, including some repeat ones that are vitally important! Please take the time to go over the list carefully to make sure you are aware of all of the opportunities.

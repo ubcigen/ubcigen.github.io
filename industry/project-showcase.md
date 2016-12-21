@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Project Showcase
-permalink: /industry/project-showcase/
+permalink: "/industry/project-showcase/"
+layout: page
 ---
 
 <div class="container">

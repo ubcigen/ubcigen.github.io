@@ -1,9 +1,10 @@
 ---
+title: The Coaster
+date: 2016-02-11 00:00:00 Z
+categories:
+- IGEN-Project
 layout: project
-title: "The Coaster"
-categories: IGEN-Project
 ---
-
 
 <p> A coaster that counts the amount of drinks consumed and displays that number on the coaster. It also notifies bartenders of drinks needing refills and excess alcohol consumption.</p>
 

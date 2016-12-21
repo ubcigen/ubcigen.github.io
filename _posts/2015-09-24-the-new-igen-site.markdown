@@ -1,11 +1,13 @@
 ---
+title: The New IGEN Site
+date: 2015-09-24 00:00:00 Z
+categories:
+- site
 layout: post
-title:  "The New IGEN Site"
-date:   2015-09-24
-categories: site
 author: Darshan Soni
 image: https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=675&q=80&w=1375
 ---
+
 <img class="img-responsive" src="https://images.unsplash.com/photo-1429051883746-afd9d56fbdaf?fit=crop&fm=jpg&h=675&q=80&w=1375" alt="Website Coding">
 
 

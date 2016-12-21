@@ -1,7 +1,7 @@
 ---
+title: Mentorship Program
+permalink: "/current-students/mentorship/"
 layout: page
-title: Mentorship Program	
-permalink: /current-students/mentorship/
 ---
 
 <div class="container">

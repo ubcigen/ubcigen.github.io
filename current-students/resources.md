@@ -1,8 +1,9 @@
 ---
+title: Resources
+permalink: "/current-students/resources/"
 layout: page
-title: Resources	
-permalink: /current-students/resources/
 ---
+
 <div class="container">
 	<h2>Google Drive Access</h2>
 	<p>IGEN students maintain a Google Drive folder with course content from all the years. Note that access is only available for current IGEN students. To request access, please use the link provided.<br>

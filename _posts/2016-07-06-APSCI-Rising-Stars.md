@@ -1,9 +1,11 @@
 ---
+title: APSCI Rising Stars 2016
+date: 2016-07-06 00:00:00 Z
+categories:
+- news
 layout: post
-title: "APSCI Rising Stars 2016"
-categories: news
 author: Darshan Soni
-image: /images/truss.png
+image: "/images/truss.png"
 ---
 
 # Congratulations to the APSCI Rising Stars 2016.

@@ -1,10 +1,13 @@
 ---
+title: President's Update for February 29 2016
+date: 2016-02-29 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for February 29 2016"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Hello everyone,
 
 Here are your updates. Apologies for the delay, some details for the jackets below were being ironed out.

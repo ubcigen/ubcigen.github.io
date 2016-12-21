@@ -1,7 +1,7 @@
 ---
+title: Recreation
+permalink: "/current-students/recreation/"
 layout: page
-title: Recreation	
-permalink: /current-students/recreation/
 ---
 
 <div class="container-fluid sportspicture" style="height:800px">

@@ -1,9 +1,10 @@
 ---
+title: Adjustable Wheelchair
+date: 2016-02-11 00:00:00 Z
+categories:
+- IGEN-Project
 layout: project
-title: "Adjustable Wheelchair"
-categories: IGEN-Project
 ---
-
 
 <p>This project would allow a wheelchair to recline into a medical bed for emergency procedure such as CPR.</p>
 

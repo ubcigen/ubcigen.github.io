@@ -1,11 +1,12 @@
 ---
+title: 'IGEN CEO Speaker Series: Darby Kreitz'
+date: 2015-10-29 00:00:00 Z
+categories:
+- CEO-Speaker-Series
 layout: post
-title: "IGEN CEO Speaker Series: Darby Kreitz"
-categories: CEO-Speaker-Series 
 author: Darshan Soni
-image: /images/DarbyKreitz1.JPG
+image: "/images/DarbyKreitz1.JPG"
 ---
-
 
 <img class="img-responsive" src="/images/DarbyKreitz1.JPG" alt="Darby Kreitz addressing IGEN students">
 

@@ -1,7 +1,9 @@
 ---
+title: Meet an IGENeer - Jesse Macht
+date: 2015-11-16 00:00:00 Z
+categories:
+- meet-an-IGENeer
 layout: post
-title: "Meet an IGENeer - Jesse Macht"
-categories: meet-an-IGENeer
 author: Beste Pazarözyurt
 image: https://cloud.githubusercontent.com/assets/12440671/10349967/4125caa2-6cf6-11e5-950e-95635269af20.png
 ---

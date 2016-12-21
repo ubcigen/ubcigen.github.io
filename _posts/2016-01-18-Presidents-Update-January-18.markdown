@@ -1,9 +1,11 @@
 ---
+title: President's Update for January 18 2016
+date: 2016-01-18 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for January 18 2016"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
 
 Hey everyone,

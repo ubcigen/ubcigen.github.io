@@ -1,8 +1,10 @@
 ---
+title: PerfectGear
+date: 2016-02-11 00:00:00 Z
+categories:
+- IGEN-Project
 layout: project
-title: "PerfectGear"
-categories: IGEN-Project
-image: /images/PerfectGear.png
+image: "/images/PerfectGear.png"
 ---
 
 <img class="img-responsive" src="/images/PerfectGear.png">

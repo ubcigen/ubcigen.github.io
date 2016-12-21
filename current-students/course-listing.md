@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Course Listing
-permalink: /current-students/course-listing/
+permalink: "/current-students/course-listing/"
+layout: post
 ---
 
 This is a general guide and may be inaccurate when policies change. In case of conflict, information on the official [UBC calendar](http://www.calendar.ubc.ca/vancouver/courses.cfm) outranks this site.

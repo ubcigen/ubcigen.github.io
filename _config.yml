@@ -1,21 +1,24 @@
-# Site settings
+---
 title: UBC Integrated Engineers
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: site@integratedengineers.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Student run website of the UBC Integrated Engineers. This site is a resource for current students, prospective students, alumni and industry members.
-baseurl: ""
-url: "http://integratedengineers.ca" # the base hostname & protocol for your site
+description: 'Student run website of the UBC Integrated Engineers. This site is a
+  resource for current students, prospective students, alumni and industry members.
+
+'
+baseurl: ''
+url: http://integratedengineers.ca
 twitter_username: ubcigen
-github_username:  ubcigen
+github_username: ubcigen
 permalink: pretty
-
-# Build settings
 markdown: kramdown
-
 gems:
-# - jekyll-auto-image
 - jekyll-sitemap
-
-
-# Default image
-image: /images/truss.png
+image: "/images/truss.png"

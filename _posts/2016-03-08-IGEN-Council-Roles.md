@@ -1,11 +1,12 @@
 ---
+title: IGEN Council Roles Explained
+date: 2016-03-08 00:00:00 Z
+categories:
+- IGEN-Council
 layout: post
-title: "IGEN Council Roles Explained"
-categories: IGEN-Council
 author: Darshan Soni
-image: /images/truss.png
+image: "/images/truss.png"
 ---
-
 
   1.  **President** – Current: Gabriel Lessard-Kragen
 

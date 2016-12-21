@@ -1,7 +1,9 @@
 ---
+title: Pitted Power Motor
+date: 2016-02-23 00:00:00 Z
+categories:
+- IGEN-Project
 layout: project
-title: "Pitted Power Motor"
-categories: IGEN-Project
 ---
 
 <p>We are constructing an attachable surfboard motor. This will help new surfers battle currents and large waves. It will also be useful to those with disabilities, surf instructors, or those who find paddling tiring.</p>

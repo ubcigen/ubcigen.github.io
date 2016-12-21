@@ -1,8 +1,9 @@
 ---
+title: Events Calendar
+permalink: "/prospective-students/events-calendar/"
 layout: page
-title: "Events Calendar"
-permalink: /prospective-students/events-calendar/
 ---
+
 <br><br>
 
 <div class="container">

@@ -1,9 +1,11 @@
 ---
+title: President's Update for August 29 2016
+date: 2016-08-29 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for August 29 2016"
-categories: president-update
 author: Quinn Richardson
-image: /images/truss.png
+image: "/images/truss.png"
 ---
 
 Hello returning IGENeers!

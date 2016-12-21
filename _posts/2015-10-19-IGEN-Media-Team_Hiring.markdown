@@ -1,7 +1,9 @@
 ---
+title: IGEN is looking for a media team
+date: 2015-10-19 00:00:00 Z
+categories:
+- hiring
 layout: post
-title: "IGEN is looking for a media team"
-categories: hiring
 author: Darshan Soni
 image: https://images.unsplash.com/photo-1417577354685-3ab67e9716a3?q=80&fm=jpg&w=600&fit=max&s=1941c278eb1c4c1edbd21330af2013d9
 ---

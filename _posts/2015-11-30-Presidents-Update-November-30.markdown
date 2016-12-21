@@ -1,10 +1,13 @@
 ---
+title: President's Update for November 30 2015
+date: 2015-11-30 00:00:00 Z
+categories:
+- president-update
 layout: post
-title: "President's Update for November 30 2015"
-categories: president-update
 author: Gabriel Lessard
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Hello everyone!
 
 Here are your updates for the last week of school! Stay strong, you're almost there.

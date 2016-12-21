@@ -1,8 +1,10 @@
 ---
+title: LumenLock
+date: 2016-02-10 00:00:00 Z
+categories:
+- IGEN-Project
 layout: project
-title: "LumenLock"
-categories: IGEN-Project
-image: /images/LumenLock.jpg
+image: "/images/LumenLock.jpg"
 ---
 
 <img class="img-responsive" src="/images/LumenLock.jpg">

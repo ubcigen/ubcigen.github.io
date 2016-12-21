@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Facilities
-permalink: /current-students/facilities/
+permalink: "/current-students/facilities/"
+layout: page
 ---
+
 <!--
 <div class="container-fluid sportspicture" style="height:800px">
 	<div class="container">

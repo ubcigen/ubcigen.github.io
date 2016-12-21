@@ -1,10 +1,13 @@
 ---
+title: A memo on clubroom lockers
+date: 2016-09-07 00:00:00 Z
+categories:
+- news
 layout: post
-title: "A memo on clubroom lockers"
-categories: news
 author: Quinn Richardson
-image: /images/truss.png
+image: "/images/truss.png"
 ---
+
 Good Morning IGEN!
 
 Hope you all are enjoying your first day of classes! Please note that all of your personal belongings and your lock must be removed from the lockers in the IGEN clubroom by Friday September 9, 2016. If your lock is not removed, it will be cut and your belongings taken out.

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Student Life
-permalink: /current-students/student-life/
+permalink: "/current-students/student-life/"
+layout: page
 ---
 
 <div class="container-fluid lifepicture" style="height:800px">

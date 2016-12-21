@@ -1,7 +1,7 @@
 ---
+title: Presidents Updates
+permalink: "/news/presidents-updates/"
 layout: page
-title: "Presidents Updates"
-permalink: /news/presidents-updates/
 ---
 
 <div class="container">
