@@ -13,6 +13,13 @@ layout: page
 
 	<br><br>
 
+<h2>IGEN Wiki</h2>
+	<p>Visit and contribute the IGEN wiki</p>
+
+	<a href="https://wiki.ubc.ca/Documention:Integrated_Engineering" target="_blank"><button class="btn btn-lg btn-default">IGEN Wiki</button></a>
+
+<br><br>
+
 	<div class="alert alert-info" role="alert">
 		<h2>Contact person</h2>
 			<div class="row">
