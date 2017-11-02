@@ -60,3 +60,7 @@ This is a general guide and may be inaccurate when policies change. In case of c
 | Technical electives | 12 | See Technical Electives section |
 | Complementary Studies electives | 3 | See Complementary Studies section |
 | **Total Credits** | **35** ||
+
+<br />
+
+For more information regarding complementary studies electives and technical electives, please refer to: http://www.igen.ubc.ca/current-students/
