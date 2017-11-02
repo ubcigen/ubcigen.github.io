@@ -6,7 +6,7 @@ layout: page
 
 <div class="container">
 
-	<h2>IGEN Executive Council 2016/2017</h2>
+	<h2>IGEN Executive Council 2017/2018</h2>
 	<br>
 	<br>
 	<div class="alert alert-info"><h3><i class="fa fa-exclamation-triangle"></i> <i class="fa fa-refresh"></i> This page is being updated</h3><p>We request your patience while we put up profiles for the new council. Apologies for any inconveniences caused.</p></div>
@@ -17,7 +17,7 @@ layout: page
 	      <img src="/images/president.jpg" alt="...">
 	      <div class="caption">
 	        <h3>President</h3>
-	        <p>Quinn Richardson</p>
+	        <p>Cameron Yuen</p>
 	        <p><a href="mailto:igenpresident@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
@@ -25,10 +25,10 @@ layout: page
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/treasurer.jpeg" alt="...">
+	      <img src="/images/treasurer.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Treasurer</h3>
-	        <p>Harjot Toor</p>
+	        <p>Jason Miller</p>
 	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
@@ -36,11 +36,11 @@ layout: page
 
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/vpacademic.jpeg" alt="...">
+	      <img src="/images/vpacademic.jpg" alt="...">
 	      <div class="caption">
 	        <h3>VP Academic</h3>
-	        <p>Connor White</p>
-	        <p><a href="mailto:connor.white63@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Emily Sullivan</p>
+	        <p><a href="mailto:essulli@telus.net" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -51,11 +51,11 @@ layout: page
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/vpexternal.jpeg" alt="...">
+	      <img src="/images/vpexternal.jpg" alt="...">
 	      <div class="caption">
 	        <h3>VP External</h3>
-	        <p>Alex Hutchinson</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Tyler Bugeaud</p>
+	        <p><a href="tbugeaud@me.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -65,7 +65,7 @@ layout: page
 	      <img src="/images/vpstudentlife.jpg" alt="...">
 	      <div class="caption">
 	        <h3>VP Student Life</h3>
-	        <p>Sam Lai</p>
+	        <p>Joseph Gustafson</p>
 	        <p><a href="mailto:vpstudentlife@integratedengineers.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
@@ -73,11 +73,11 @@ layout: page
 
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10493345/6e13137a-7265-11e5-9e67-9281347fc319.png" alt="...">
+	      <img src="/images/vpinternal.jpg" alt="...">
 	      <div class="caption">
 	        <h3>VP Internal</h3>
-	        <p>Hailey Grotkowski</p>
-	        <p><a href="mailto:haileygrotkowski@yahoo.ca" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Denny Lee</p>
+	        <p><a href="mailto:denny_jc@hotmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -86,21 +86,21 @@ layout: page
 	<div class="row">
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/shopsupervisor.jpeg" alt="...">
+	      <img src="/images/shopsupervisor.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Chief Shop Supervisor</h3>
-	        <p>Cameron Yuen</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Nick Toglia</p>
+	        <p><a href="nick.toglia@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="https://cloud.githubusercontent.com/assets/12440671/10724759/2428a5d6-7b84-11e5-9a12-b5c45bbbebc4.png" alt="...">
+	      <img src="/images/vpcomm.jpg" alt="...">
 	      <div class="caption">
 	      	<h3>VP Communications</h3>
-	      	<p>Darshan Soni</p>
+	      	<p>Claire Pibrovec</p>
 	      	<p><a href="mailto:site@integratedengineers.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
@@ -119,33 +119,33 @@ layout: page
 	<div class="row">
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/gradrep.jpeg" alt="...">
+	      <img src="/images/gradrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Graduation Representative</h3>
-	        <p>Hank Hsu</p>
-	        <p><a href="mailto:hank-hsu@live.ca" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Lance Burnett</p>
+	        <p><a href="mailto:lance.cburnett@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/sportsrep.jpeg" alt="...">
+	      <img src="/images/sportsrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Sports Representative</h3>
-	        <p>Jason Miller</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Ryan Cui</p>
+	        <p><a href="ryan.cui@live.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/eweekrep.jpeg" alt="...">
+	      <img src="/images/eweekrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>E-Week Representative</h3>
-	        <p>Cameron Yuen</p>
-	        <p><a href="mailto:a@sample.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Joseph Gustafson</p>
+	        <p><a href="josephgustaf@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -156,11 +156,11 @@ layout: page
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/secondyearrep.jpeg" alt="...">
+	      <img src="/images/secondyearrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Second Year Representative</h3>
-	        <p>Theresa Kikuchi</p>
-	        <p><a href="mailto:twesa96@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Mandy Wong</p>
+	        <p><a href="mailto:amandacw@hotmail.ca" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
@@ -169,22 +169,22 @@ layout: page
 
 	  <div class="col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/thirdyearrep.jpeg" alt="...">
+	      <img src="/images/thirdyearrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Third Year Representative</h3>
-	        <p>Kate Mason</p>
-	        <p><a href="mailto:mason.kate9@gmail.com" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Dianna Watson</p>
+	        <p><a href="mailto:sarahdiana.watson@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <img src="/images/fourthyearrep.jpeg" alt="...">
+	      <img src="/images/fourthyearrep.jpg" alt="...">
 	      <div class="caption">
 	        <h3>Fourth Year Representative</h3>
-	        <p>Hank Hsu</p>
-	        <p><a href="mailto:hank-hsu@live.ca" class="btn btn-primary" role="button">Email</a></p>
+	        <p>Quinn Richardson</p>
+	        <p><a href="mailto:quinntrichardson@gmail.com" class="btn btn-primary" role="button">Email</a></p>
 	      </div>
 	    </div>
 	  </div>
