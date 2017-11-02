@@ -9,7 +9,7 @@ layout: page
 	<h2>IGEN Executive Council 2017/2018</h2>
 	<br>
 	<br>
-	<div class="alert alert-info"><h3><i class="fa fa-exclamation-triangle"></i> <i class="fa fa-refresh"></i> This page is being updated</h3><p>We request your patience while we put up profiles for the new council. Apologies for any inconveniences caused.</p></div>
+
 
 	<div class="row">
 	  <div class="col-md-4">
